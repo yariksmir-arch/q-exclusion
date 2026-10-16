@@ -10,7 +10,10 @@
   "third_party_terms": "Terms of the respective rights holders",
   "independent_data_distributed": false,
   "owner_statement": "Licensing approved for local activation: MIT for original software and configuration; CC BY 4.0 for original research text, documentation and metadata; third-party materials retain their respective rights holders' terms.",
-  "release_authorized": false,
-  "publication_and_push_authorized": false,
-  "authorization_scope": "Release flags govern Codex upload/publication/push actions only; the active licence grants to recipients are unaffected."
+  "release_authorized": true,
+  "publication_and_push_authorized": true,
+  "authorization_scope": "Release flags govern Codex upload/publication/push actions only; the active licence grants to recipients are unaffected.",
+  "publication_authorization_date": "2026-10-16",
+  "publication_authorization_scope": "User explicitly confirmed creation of the public GitHub repository yariksmir-arch/q-exclusion, upload of the reviewed public snapshot, and a release with its ZIP and SHA-256 sidecar.",
+  "publication_repository": "https://github.com/yariksmir-arch/q-exclusion"
 }

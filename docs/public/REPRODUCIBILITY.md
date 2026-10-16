@@ -34,7 +34,7 @@ These commands are read-only. Optional explicit output flags in a model script a
 
 The Python route uses platform-neutral standard-library APIs and is prepared for Linux/macOS. Those operating systems have not been executed locally in this release pass. The full canonical runner still invokes Windows PowerShell; the Python-only route does not replace its 178 checks. No unverified PowerShell port is advertised.
 
-The [CI workflow](../../.github/workflows/verify.yml) runs the full route on Windows and the Python route on Ubuntu/macOS, using pinned action commits and a read-only token. Hosted CI has not yet run; it could also run in a private repository after an explicitly authorized upload. Local verification remains independent of it.
+The [CI workflow](../../.github/workflows/verify.yml) runs the full route on Windows and the Python route on Ubuntu/macOS, using pinned action commits and a read-only token. Published CI runs and their actual conclusions are available on the [repository Actions page](https://github.com/yariksmir-arch/q-exclusion/actions). Local verification remains independent of hosted CI.
 
 ## Snapshot and archive integrity
 
@@ -48,7 +48,7 @@ python -B research/verification/reproduce_archive.py ../q-exclusion-reproduced.z
 
 The ZIP has sorted paths, fixed timestamps/modes and stored bytes without compression, so it does not depend on a compression-library version. It excludes .git. An extracted ZIP is a complete verification environment and can be initialized as a new independent Git repository.
 
-To reconstruct from public Git instead, use git clone --no-local with an empty remote or the reviewed public repository location. This candidate has independent local Git history beginning with a new initial commit, and no remote, submodule, alternates or shared object store. A clean clone and an extracted archive were verified separately during preparation. They require no file from the research source checkout.
+To reconstruct from public Git instead, clone [yariksmir-arch/q-exclusion](https://github.com/yariksmir-arch/q-exclusion). The public repository has independent history beginning with a new initial commit, and no submodule, alternates or shared object store. A clean clone and an extracted archive were verified separately during preparation. They require no file from the research source checkout.
 
 For an effective-license check, run:
 
@@ -56,7 +56,7 @@ For an effective-license check, run:
 python -B research/verification/verify_public.py --require-licensed
 ~~~
 
-MIT and CC BY 4.0 are active under the owner’s approval recorded in LICENSE-STATUS.json, with scope and attribution in [LICENSE-CONTENT.md](../../LICENSE-CONTENT.md) and [NOTICE.md](../../NOTICE.md). The --require-approved flag additionally checks authorization for Codex to upload, publish or push. It currently fails with PUBLICATION_NOT_AUTHORIZED because those actions remain prohibited. This agent-action restriction does not limit recipients’ rights under the effective licenses.
+MIT and CC BY 4.0 are active under the owner’s approval recorded in LICENSE-STATUS.json, with scope and attribution in [LICENSE-CONTENT.md](../../LICENSE-CONTENT.md) and [NOTICE.md](../../NOTICE.md). The --require-approved flag additionally checks authorization for Codex to upload, publish or push. The owner explicitly authorized publication at https://github.com/yariksmir-arch/q-exclusion on 2026-10-16; this snapshot records that authorization, so --require-approved passes. Agent-action authorization remains separate from recipients’ rights under the effective licenses.
 
 ## Validation under Python optimization
 

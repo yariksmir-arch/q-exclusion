@@ -31,4 +31,4 @@ No package installation, external dataset, account or service is required for lo
 
 Copyright © 2026 Yaroslav Vyacheslavovich Smirnov (Смирнов Ярослав Вячеславович).
 
-Software and configuration: [MIT](LICENSE). Research text, documentation and metadata: [CC BY 4.0](LICENSE-CONTENT.md). Third-party materials retain their respective rights holders’ terms; see [NOTICE.md](NOTICE.md). These licenses are active. Codex is not authorized to upload, publish or push this local candidate. This operational restriction does not limit recipients’ rights under the licenses.
+Software and configuration: [MIT](LICENSE). Research text, documentation and metadata: [CC BY 4.0](LICENSE-CONTENT.md). Third-party materials retain their respective rights holders’ terms; see [NOTICE.md](NOTICE.md). These licenses are active. The owner authorized publication of this reviewed snapshot at [yariksmir-arch/q-exclusion](https://github.com/yariksmir-arch/q-exclusion) on 2026-10-16. This operational authorization is separate from recipients’ rights under the licenses.
