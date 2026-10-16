@@ -1,0 +1,729 @@
+{
+  "schema_version": 2,
+  "source_commit": "7d53c8a9f0846284e53e8b006bcb238f952e0049",
+  "licensing_status": "ACTIVE",
+  "release_authorized": false,
+  "publication_and_push_authorized": false,
+  "history_policy": "new-independent-initial-history",
+  "manifest_self_hash": "excluded; external archive SHA-256 covers this file",
+  "manifest_license": "CC-BY-4.0",
+  "frozen_sha256": {
+    "normative/00_PROJECT_CHARTER.md": "de2b64437eb921b9b4282372d0049a853d3fb6aaa63f99c05a82647522cb09c8",
+    "normative/01_FROZEN_CORE.md": "ead44822dd27bf0fa56f41db450f6b77a21e01154db276e45de26c0a2fc23146",
+    "normative/02_FORMAL_LANGUAGE.md": "a9045d3e12111a75e0f017e39a173daa1fab8a0868e8e02285097703e921a945",
+    "normative/03_RESEARCH_GOVERNANCE.md": "32bc9c9963d57d40f68184d027d19ed037f2566c11814fcab78e129a47fe92da"
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 138,
+      "sha256": "11ddcba8624bdd81233b7c8d272ac343e040663afac39af84d258f7952f50a82",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 1402,
+      "sha256": "317c648cf0bfb32f57e144bc629ea36f6702af6aecbc237d3c177fa1168d3c27",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 19,
+      "sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1407,
+      "sha256": "00f70bd9d44800e7e9aa2cd7df27699caffa4c81390374e6ecf29dd4904c8d1e",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "bytes": 2529,
+      "sha256": "e4bf6cded501a936bd30d7e61b1f122703ac6da7d2ccc0faf23f58ac87da4217",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "LICENSE-STATUS.json",
+      "bytes": 900,
+      "sha256": "ea0347e71ff0ffff15247e437eaa7defd95e678044716dbb4ef8b7be4cb6b6af",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.txt",
+      "bytes": 18657,
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "license": "License-text-own-terms",
+      "copyright_holder": null,
+      "copyright_year": null,
+      "origin": "official-license-text"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1339,
+      "sha256": "9658507d56dce10ac6cdac132ef87c8a82fc80c39eea25689436afd2984b6fa3",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3173,
+      "sha256": "e243911f6c12cbf5ac55b09f52ab51d732f7add9c5ec4abd1b18db78c5b51b49",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/ARGUMENTS.md",
+      "bytes": 4004,
+      "sha256": "89340b54def3929668722f9a4ea4e20091a8480dc6c1c101d64fa48278abacb9",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/BIBLIOGRAPHY.md",
+      "bytes": 3425,
+      "sha256": "cb26d937a443d71bf8a6baad2c84bf72b80e297d9a2e3557177a395a133d6815",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/EXAMPLES.md",
+      "bytes": 3087,
+      "sha256": "603709b8b2ca664e0c6907f9f2989680063b8baf49687e1ae9d8ebe79b73bc3a",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/OVERVIEW.md",
+      "bytes": 7424,
+      "sha256": "f96ebd7d308b5c368e8648bb06b5c7b15d6eadaaf3545f8744347d44bf37fc5b",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/REPRODUCIBILITY.md",
+      "bytes": 5035,
+      "sha256": "761ae5689710906fdfcbaefae123ce10d9470898499ffa4507b0e1fd08da851c",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/RESULTS.md",
+      "bytes": 6044,
+      "sha256": "590e15b9272da1c524eb6716b56318fecd5ed8cfa39ac15a8d6dbb5203d1b291",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/SCOPE.md",
+      "bytes": 5377,
+      "sha256": "b49452760cfc93d295faa89e50fce4831e3fb902e4105519560174aecb708609",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "normative/00_PROJECT_CHARTER.md",
+      "bytes": 2044,
+      "sha256": "de2b64437eb921b9b4282372d0049a853d3fb6aaa63f99c05a82647522cb09c8",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "normative/01_FROZEN_CORE.md",
+      "bytes": 3519,
+      "sha256": "ead44822dd27bf0fa56f41db450f6b77a21e01154db276e45de26c0a2fc23146",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "normative/02_FORMAL_LANGUAGE.md",
+      "bytes": 2692,
+      "sha256": "a9045d3e12111a75e0f017e39a173daa1fab8a0868e8e02285097703e921a945",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "normative/03_RESEARCH_GOVERNANCE.md",
+      "bytes": 1842,
+      "sha256": "32bc9c9963d57d40f68184d027d19ed037f2566c11814fcab78e129a47fe92da",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "normative/README.md",
+      "bytes": 1800,
+      "sha256": "ca4b231ed7cb9391980e7f6a104135124cf101fecb9ed8afadcd4528971b0089",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/ARTICULATION_CALCULUS.md",
+      "bytes": 9808,
+      "sha256": "b5ba2d4ab72d60d8a9b27077fbd9128eba82804c5a4e84a3c98ecb8b0362b3c8",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/ARTICULATION_MODEL_ZOO.md",
+      "bytes": 5096,
+      "sha256": "267f4c0227327f93f8f1235ed14edcd483aa83da423f7ce7678a9d1beb30ec2c",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COMPOSITIONAL_L2_EMERGENCE.md",
+      "bytes": 7273,
+      "sha256": "10e62854b2678dae6043863744692ddc86a03a38bca61242ee307dc196948182",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COMPOSITIONAL_MODEL_ZOO.md",
+      "bytes": 5353,
+      "sha256": "89eec43a37dbd6176d51fb06866758513785244a299b76f38fe780bb7bf86519",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COMPOSITIONAL_PREDICTION_MODEL_ZOO.md",
+      "bytes": 4518,
+      "sha256": "8f66c74901d00ebeb4fcd7e6604b4be8bccede9efd50418e1db2001366693cbb",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COMPOSITIONAL_PREDICTION_REALIZATION.md",
+      "bytes": 7919,
+      "sha256": "2ca87fa315672a0f94c96e4e1bc174b194908fc2e24cf0ad2aa2df13e74d01ac",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COMPOSITIONAL_RECORD_REALIZABILITY_MODEL_ZOO.md",
+      "bytes": 3462,
+      "sha256": "104dd797b3a2fa0155eb9d7419729ef9174301aa84a35a92649fbf3b00f87730",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COMPOSITIONAL_RECORD_SUFFICIENCY.md",
+      "bytes": 7503,
+      "sha256": "46dcda002c5e749a661f08c2bc6860292fad93bff8ec6831d2d89898c176ace1",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COMPOSITIONAL_RECORD_TRANSPORT.md",
+      "bytes": 5109,
+      "sha256": "59431b686cf95d97a23314f13ef9fb86afd6694da36491bf3c46be890ef2f55f",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/CONTROL_THEORY.md",
+      "bytes": 34542,
+      "sha256": "9deb2140a64b4661ee5d47c69995d64c10dd8f4219e951f1bbd6ed730769ad75",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COORDINATION.md",
+      "bytes": 12821,
+      "sha256": "910335b7ccf6ed245c9fc2ec6935ba03fa778f38e5cc24e222cf2b95422d3986",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/CORRELATION_IDENTITY_MODEL_ZOO.md",
+      "bytes": 2580,
+      "sha256": "0fdfe0ee3a6d4b24b73ba8a53e7ed460a1b260d5d9d9dc65a0a1874469871efa",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/CORRELATION_IDENTITY_THEORY.md",
+      "bytes": 7583,
+      "sha256": "165f2b14c0c602c21ac2a5e476f668c4c69a02b5da79f12e8dbce36b3c84b799",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/COUNTERMODELS.md",
+      "bytes": 7132,
+      "sha256": "f09c4cae2eb4b229a41cad411c39f635f2a10779f8b551a51538dc65e35a2f33",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/ENDOGENOUS_MODELS.md",
+      "bytes": 11625,
+      "sha256": "2e7e808cf71cbaffdf8ab0fb93cec776ba2a8a34c3e4ab505f26cbbc8b03822c",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INCIDENCE_LOCALIZATION_EMERGENCE.md",
+      "bytes": 8457,
+      "sha256": "5b58f2e80bc0cfd22c40c1fdbcd8bc66aef270e0a2d232a342712d19019a4c4e",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INCIDENCE_LOCALIZATION_MODEL_ZOO.md",
+      "bytes": 2012,
+      "sha256": "fc14bc85568d10da11507749f1c36948ca5f235546bb5a23a51710df3b921d02",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INDEPENDENT_CONSTRAINT_CONVERGENCE.md",
+      "bytes": 9954,
+      "sha256": "817cb09968b32121e6f24dd7a60f20ebd24ad691e4fe3743ecac7e9ef248b989",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INDEPENDENT_CONSTRAINT_CONVERGENCE_MODEL_ZOO.md",
+      "bytes": 2039,
+      "sha256": "691ca6499d0ab58ad0af6fb2906bb4ac9d394b17ead7ddae93cbd83e166e92ce",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INDEPENDENT_PREDICTIVE_NETWORK_MODEL_ZOO.md",
+      "bytes": 2119,
+      "sha256": "4923cb82e68e59df710d7e17f32c369e4ce16a00753c40136c867db6b477b715",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INDEPENDENT_PREDICTIVE_NETWORK_THEORY.md",
+      "bytes": 10058,
+      "sha256": "d4e0cfac99125141caff44443e8b4ccf66b45f931c5d59fcd5f74e146b53258e",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INTEGRATED_THEORY.md",
+      "bytes": 5382,
+      "sha256": "043488837eba77900591d3da430f84003f96aa5b0064be52b7a244ab6fe0faf0",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/INTERFACE_QUESTIONS.md",
+      "bytes": 8579,
+      "sha256": "96b991036cc663b2c1f83c2c806ec3315bc8b898fa372d5ae89e77f46f7223b0",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/PREDICTION_FOUNDATIONS.md",
+      "bytes": 19611,
+      "sha256": "1e7589b3fe7a793defe829321220466fdb631d3df581aa70cd20f44e1c97a075",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/PREDICTION_THEORY.md",
+      "bytes": 2154,
+      "sha256": "903100f4e34e70d49c9c967a50ba9ce77ccdafd63e2a3bdd148479ce2bbb5d40",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/PREDICTIVE_CERTIFICATION_FINALIZATION.md",
+      "bytes": 8646,
+      "sha256": "ec90016c6801e9387cf44487aa362d2a8331768c10812473067b15f50e863a42",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/PREDICTIVE_CLOSURE_TRANSPORT_CERTIFICATION.md",
+      "bytes": 8040,
+      "sha256": "c7ce798982bb47a20a6f8447209dc4e772b41122af0552162962013ab9fa46ed",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/PRESENTATION_TRANSPORT.md",
+      "bytes": 22201,
+      "sha256": "f17e4cde88b0ccc22e90822d6e8a2b07356ccc6ba0d304621f68a3d1b029c46a",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/PROTOCOL_GENERATION_THEORY.md",
+      "bytes": 2598,
+      "sha256": "e4af1fef482f9f8f36303d5d3839d6ce7dd4b97a28c1b9cd91048e7845945392",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/QUANTITATIVE_COMPARISON_EMERGENCE.md",
+      "bytes": 8025,
+      "sha256": "357e9a196c7f3c1ab5617fe07e652655ba467a45b3c006ef825953f1cf06e6fe",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/QUANTITATIVE_COMPARISON_MODEL_ZOO.md",
+      "bytes": 3890,
+      "sha256": "72350e3d1245c28aa99537459d58a0a9b60e43bc50c8f7188c5ea02818df250e",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/QUESTION_DEFINABILITY.md",
+      "bytes": 8505,
+      "sha256": "023fdc14bec6ec24a3f02d616d0a98595cad5e4fc318466633b21d8fc9ea710e",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/QUESTION_MODEL_ZOO.md",
+      "bytes": 3297,
+      "sha256": "50e8aa30edc4b03ee1c5f415cb43849b89d5d1b0842e2b0fd72a61072aef2aca",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/RECOGNITION_DEFINABILITY_COMPLETION.md",
+      "bytes": 9064,
+      "sha256": "831f3764712696ca3392e4aafe6eee700a9f88fa7cb467599c1b56c32930eaec",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/interfaces/CONTROLS.md",
+      "bytes": 6683,
+      "sha256": "c99f8e0439ed4f0d4e171398e5ef30d8d69a1f05a1b5d5d1bfe6b576ba95df08",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/interfaces/RESULTS.md",
+      "bytes": 13818,
+      "sha256": "0516dd5c1515acccc14f8435df331efcc1949f255afb55ce738d07dbc41701c3",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/interfaces/SPECIFICATION.md",
+      "bytes": 14082,
+      "sha256": "cb393ea1e737430683d2e011638ad7a194d8f94ec82c3a35ecbf5de471913d91",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/README.md",
+      "bytes": 280,
+      "sha256": "3ec33355630af1726f9a4b643c14b5051b55359bb0a7127a9227b384d5478b42",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/articulation_check.py",
+      "bytes": 9612,
+      "sha256": "252a6e810d48b2077cec04f6b684a37fefa61a7706a9c70e82d604c1b4a15474",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/canonical_regression.py",
+      "bytes": 707,
+      "sha256": "aec61fa32f20425befd3a7662e0779505c0004b9a2b80265e71bccfc99ecbb26",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/control_branching_check.py",
+      "bytes": 4034,
+      "sha256": "22b24d84d499771f894236b387b5a5f3d0a2ab5575d4413b9cab289a972f9d5a",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/control_continuation_check.py",
+      "bytes": 4606,
+      "sha256": "0769480f4451d27245a873de39bec0b1ce0a017ddf9ab02b370ec2c782548376",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/control_deterministic_check.py",
+      "bytes": 3364,
+      "sha256": "c3af7f772f8401746e066d1df06eb843c376b4947da975c39534a37dadea3ea6",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/control_pass_regression.py",
+      "bytes": 819,
+      "sha256": "cfb10bffb89a46c313b7fea442ebed117ce6c729f094eb6202ee1ba88eb896fc",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/control_protocol_composition.py",
+      "bytes": 2810,
+      "sha256": "c1121e43943630778cbf6fced9312ea85ec6eb3336fcf3fdd65514b7df2847c2",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/finite_regression.ps1",
+      "bytes": 60857,
+      "sha256": "655b74df5292d02fc0673c402ee5da035dd369de8cd55a57268e3657272ac2d2",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/incidence_bounds_check.py",
+      "bytes": 3957,
+      "sha256": "17fc476c255b39483245ca8ce3b5eee42ad4cd083028e253c68fe5bb5dd30b20",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/portable_regression.py",
+      "bytes": 1137,
+      "sha256": "42b99f951505f6c4c050e78cb168ea99487aceed4d69138d8ec611b1d6f5d656",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/question_definability_check.py",
+      "bytes": 5673,
+      "sha256": "b59fd124ccdf622436b242bfc405a478b4ef18821fbb2e511a46475bd5c376d2",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/semantic_roles_check.py",
+      "bytes": 5488,
+      "sha256": "e87fc0c4531867231bb88d458e23b1c9af37812790270063eb906f4216d9d315",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/semantic_transition_check.py",
+      "bytes": 2343,
+      "sha256": "b93424c634fe9c9cb13639b42bafed6c9198e320133c5d517ce902d20c0c76d8",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/regression/transport_scope_check.py",
+      "bytes": 4113,
+      "sha256": "0a5916f0f11cd743b0244bce6ac1147258d6aa4872f28043ab1ff0ed0ecc7c11",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/verification/coordination_check.py",
+      "bytes": 16442,
+      "sha256": "dae0d234248e147ad1d4729caa4e060c1c1c99a9ebdad363ed2bb401f9dbb6f9",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/verification/endogenous_check.py",
+      "bytes": 5244,
+      "sha256": "a3d98c34014a6176c3762d9c505f80d43850b65362651dee0258bb2153c79a08",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/verification/interface_check.py",
+      "bytes": 19185,
+      "sha256": "2d2804361a97429f5eb473454f16ec758dac8bfd1fa61162ef8f97291f2d621e",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/verification/interface_question_check.py",
+      "bytes": 11622,
+      "sha256": "3410789229e244948213311aa047a533542fde8f561bdc4f491b2cc4816c6616",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/verification/reproduce_archive.py",
+      "bytes": 1385,
+      "sha256": "1bfefd39e273f05698a1c143016eec5c46420dcc5bef58895912f155efc9705c",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "research/verification/verify_public.py",
+      "bytes": 7632,
+      "sha256": "ac956a547c83b21a32b1fcd88d67243ee2f5aa47b72f6c85f47f8f9b8b0f2393",
+      "license": "MIT",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    }
+  ]
+}

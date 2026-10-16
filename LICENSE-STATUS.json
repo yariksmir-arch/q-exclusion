@@ -1,0 +1,16 @@
+{
+  "schema_version": 2,
+  "owner_approved": true,
+  "approval_date": "2026-10-16",
+  "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+  "copyright_holder_native": "Смирнов Ярослав Вячеславович",
+  "copyright_year": 2026,
+  "code_license": "MIT",
+  "text_and_metadata_license": "CC-BY-4.0",
+  "third_party_terms": "Terms of the respective rights holders",
+  "independent_data_distributed": false,
+  "owner_statement": "Licensing approved for local activation: MIT for original software and configuration; CC BY 4.0 for original research text, documentation and metadata; third-party materials retain their respective rights holders' terms.",
+  "release_authorized": false,
+  "publication_and_push_authorized": false,
+  "authorization_scope": "Release flags govern Codex upload/publication/push actions only; the active licence grants to recipients are unaffected."
+}
