@@ -1,4 +1,8 @@
 """Finite kernel/capacity/domain/transport controls for CMQ and CPC. Stdlib only."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from itertools import product, combinations
 import sys
 

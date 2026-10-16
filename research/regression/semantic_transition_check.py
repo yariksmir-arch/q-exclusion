@@ -1,4 +1,8 @@
 """Negative controls for specific invalid semantic inferences; not metaphysical tests."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from itertools import product
 
 def factors(xs, u, f):

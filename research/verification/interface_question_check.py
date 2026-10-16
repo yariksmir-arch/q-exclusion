@@ -2,6 +2,10 @@
 
 Run from root; stdlib only. All probability profiles are declared test inputs.
 """
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from collections import Counter
 from fractions import Fraction as F
 from itertools import product, permutations

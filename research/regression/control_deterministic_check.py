@@ -1,4 +1,8 @@
 """Independent finite checks for DCS3/DCS5 and their domain/composition boundary."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from itertools import product
 
 

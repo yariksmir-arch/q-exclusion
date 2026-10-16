@@ -1,4 +1,8 @@
 """Finite CPC4/CPC5 witnesses; not mechanized proofs of general theorems."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from itertools import combinations, product
 
 

@@ -3,6 +3,10 @@
 Counts are checks/cases within named finite scopes, never theorem counts.
 The generic tuple solver and bit-mask path calculations are distinct algorithms.
 """
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from collections import Counter
 from itertools import combinations, permutations, product
 import hashlib

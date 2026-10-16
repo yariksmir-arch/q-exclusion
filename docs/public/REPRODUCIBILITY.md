@@ -48,7 +48,7 @@ python -B research/verification/reproduce_archive.py ../q-exclusion-reproduced.z
 
 The ZIP has sorted paths, fixed timestamps/modes and stored bytes without compression, so it does not depend on a compression-library version. It excludes .git. An extracted ZIP is a complete verification environment and can be initialized as a new independent Git repository.
 
-To reconstruct from public Git instead, use git clone --no-local with an empty remote or the reviewed public repository location. This candidate has a single new initial commit and no remote, submodule, alternates or shared object store. A clean clone and an extracted archive were verified separately during preparation. They require no file from the research source checkout.
+To reconstruct from public Git instead, use git clone --no-local with an empty remote or the reviewed public repository location. This candidate has independent local Git history beginning with a new initial commit, and no remote, submodule, alternates or shared object store. A clean clone and an extracted archive were verified separately during preparation. They require no file from the research source checkout.
 
 For an effective-license check, run:
 
@@ -57,3 +57,9 @@ python -B research/verification/verify_public.py --require-licensed
 ~~~
 
 MIT and CC BY 4.0 are active under the owner’s approval recorded in LICENSE-STATUS.json, with scope and attribution in [LICENSE-CONTENT.md](../../LICENSE-CONTENT.md) and [NOTICE.md](../../NOTICE.md). The --require-approved flag additionally checks authorization for Codex to upload, publish or push. It currently fails with PUBLICATION_NOT_AUTHORIZED because those actions remain prohibited. This agent-action restriction does not limit recipients’ rights under the effective licenses.
+
+## Validation under Python optimization
+
+The integrity verifier and archive writer use explicit validation that remains active with `-O`, `-OO` and `PYTHONOPTIMIZE`. The finite test suites deliberately reject optimized Python, because optimization would remove their mathematical assertions. Run the documented test commands without optimization. The publication gate rejects an unauthorized snapshot in both normal and optimized modes.
+
+Distribute a checksum sidecar whose recorded filename exactly matches its ZIP. Original and reproduced ZIPs each have their own correspondingly named `.sha256` sidecar. If any payload changes, regenerate MANIFEST.json, rebuild both ZIPs, and regenerate both sidecars. A matching digest verifies bytes, not publication permission or the legal provenance of ownership.

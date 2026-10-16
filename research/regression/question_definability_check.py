@@ -2,6 +2,10 @@
 
 No enumerated function is inferred to be an available procedure.
 """
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from collections import Counter
 from itertools import product, permutations, combinations
 

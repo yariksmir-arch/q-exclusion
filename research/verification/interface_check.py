@@ -3,6 +3,10 @@
 Recognize event/procedure data, never fixture names. Probabilities are declared
 rational toy kernels. Physical implementation/provenance is not certified.
 """
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from collections import Counter, defaultdict
 from fractions import Fraction as F
 from itertools import permutations, product

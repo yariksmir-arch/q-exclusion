@@ -1,4 +1,8 @@
 """Exact finite diagnostics for corrected IL5/IL6; no physical validation."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from itertools import permutations
 
 checks = 0

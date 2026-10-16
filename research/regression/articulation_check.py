@@ -4,6 +4,10 @@ Exact kernel assertions, floating-point entropy sanity checks (not formal proof)
 No probability is generated from profiles, and no function is deemed available
 merely by being included in this L0 fixture.
 """
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from collections import defaultdict
 from itertools import product
 from itertools import permutations

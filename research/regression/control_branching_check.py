@@ -1,4 +1,8 @@
 """Finite witnesses for BCS1--BCS6. No external dependencies."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from itertools import product
 
 

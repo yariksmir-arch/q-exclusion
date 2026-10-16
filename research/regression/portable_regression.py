@@ -1,4 +1,8 @@
 """Run every stdlib Python suite. The separate 178-check PowerShell suite is not replaced."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from pathlib import Path
 import subprocess
 import sys

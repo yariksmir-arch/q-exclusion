@@ -1,4 +1,8 @@
 """Finite witnesses for the scoped endogenous-articulation application; stdlib only."""
+
+if not __debug__:
+    raise RuntimeError('OPTIMIZED_PYTHON_NOT_SUPPORTED: run finite checks without -O, -OO or PYTHONOPTIMIZE')
+
 from fractions import Fraction as F
 from itertools import product, permutations
 import json

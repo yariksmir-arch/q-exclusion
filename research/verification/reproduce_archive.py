@@ -11,8 +11,10 @@ ROOT = Path(__file__).resolve().parents[2]
 
 def main(output):
     output = Path(output).resolve()
-    assert not output.is_relative_to(ROOT), 'write the archive outside the snapshot'
-    assert not output.exists(), 'refusing to overwrite an existing archive'
+    if not (not output.is_relative_to(ROOT)):
+        raise ValueError('write the archive outside the snapshot')
+    if not (not output.exists()):
+        raise ValueError('refusing to overwrite an existing archive')
     subprocess.run([sys.executable, '-B', str(ROOT / 'research/verification/verify_public.py')], cwd=ROOT, check=True)
     manifest = json.loads((ROOT / 'MANIFEST.json').read_text(encoding='utf8'))
     paths = sorted([e['path'] for e in manifest['files']] + ['MANIFEST.json'])
