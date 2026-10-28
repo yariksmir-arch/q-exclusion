@@ -43,7 +43,7 @@ A useful adverse result is [Dowker and Kent, Properties of Consistent Histories 
 
 **Research hypothesis:** independently formed, jointly usable and retained records may stabilize specific historical distinctions under declared perturbations. Copied-channel, redundant-probe and erasure controls prevent promoting this into a universal theorem.
 
-**Open:** independently justified causal and temporal reconstruction, empirical criteria for retention across changing repertoires, and an application producing content beyond the existing record/control framework. No theorem-level novelty, new physics, Born-rule derivation or measurement-problem solution is claimed. Universal criteria of individuality are outside this interpretation of SS. The negative research result is narrower: this pass adds no formal content beyond existing factorization, control and constraint tools.
+**Open (model adequacy):** independently justified causal and temporal reconstruction, empirical criteria for retention across changing repertoires, and an application producing content beyond the existing record/control framework. No theorem-level novelty, new physics, Born-rule derivation or measurement-problem solution is claimed. Universal criteria of individuality are outside this interpretation of SS. The negative research result is narrower: this pass adds no formal content beyond existing factorization, control and constraint tools.
 
 See the [formal argument, proofs and kill-tests](../../research/OPEN_HISTORICAL_MULTIPLICITY.md) and [reproducibility](REPRODUCIBILITY.md). Sources above were checked against primary publications/preprints; the comparison is targeted rather than an exhaustive novelty survey.
 

@@ -1,5 +1,13 @@
 # Worked examples
 
+## Two philosophical applications
+
+**Newman and substantive capacities.** Two devices can have the same abstract two-position diagram and idle report while responding differently to an input. Calling their diagrams isomorphic establishes no equality of capacity. A justified response relation supplies the missing content; arbitrarily assigning physical meaning to its labels does not. If an account omits that relation, the correction is a richer articulation. It supplies no argument that relations need an independent nonstructural foundation. The adequacy of the response model remains open to testing.
+
+**Mary and the zombie contrast.** Mary can acquire colour acquaintance that her prior descriptions did not supply. SS recognizes that experiential difference without reducing it to a report or adding a separate phenomenal entity. Whether this accounts for the knowledge gained is a substantive philosophical dispute. A zombie differing phenomenally at fixed substantive organization is excluded under SS; identical behaviour or a stipulated complete physical description does not establish that fixed organization. Q alone proves neither SS nor the opponent's metaphysics. See [objections and their status](SCOPE.md).
+
+The finite examples below isolate parts of this reasoning. Their tables do not model experience or establish SS.
+
 ## A report can omit a distinction
 
 Let X={00,01,10,11}. The readout a returns the first bit and the target b the second. Since a(00)=a(01) but b(00)≠b(01), no decoder of a determines b. Any relabelling or classifier d(a) retains this failure. An implemented b probe can change access. A mathematical function named b supplies no instrument by itself. This is the core factorization and available-refinement countermodel.

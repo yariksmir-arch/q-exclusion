@@ -6,7 +6,7 @@ If a device reports only the first bit of a pair, 00 and 01 both report 0. No de
 
 For declared maps U:B⁺→B and F:B⁺→Y, determination by retained content means U(e₁)=U(e₂) implies F(e₁)=F(e₂). The resulting factor is unique on im U. This familiar mathematical criterion is the project's Q-exclusion discipline.
 
-Experience is primary access to determinacy. **Structural Sufficiency (SS)** adds a separate philosophical wager: no additional ontological determinacy exists beyond substantive organization of differences and relations, including phenomenal character. SS excludes the full philosophical zombie within that position. It does not require a complete nonexperiential account which must then produce experience. Available articulation can remain local and open to extension; SS requires no universal comparability. Absence of an available comparison is no warrant for Q-exclusion to identify the contents concerned. The justification of SS remains open to criticism.
+Experience is primary access to determinacy. **Structural Sufficiency (SS)** adds a separate philosophical wager: no additional ontological determinacy exists beyond substantive organization of differences and relations, including phenomenal character. SS excludes the full philosophical zombie within that position. It does not require a complete nonexperiential account which must then produce experience. Available articulation can remain local and open to extension; SS requires no universal comparability. Absence of an available comparison is no warrant for Q-exclusion to identify the contents concerned. SS concerns substantive determinacy, not completeness of a description. It admits no principled inarticulable residue and promises no exhaustive local access. Phenomenal and nonphenomenal are not two initial ontological categories. The justification of SS remains open to criticism.
 
 The formal contribution is a coordinated application of known quotient, record, control and constraint mathematics. It separates determination from available access, static records from usable updates, and local agreement from global extension. Construction and maintenance models show how represented procedures can enable and sustain distinctions. No theorem-level mathematical novelty is claimed.
 
@@ -14,7 +14,7 @@ The formal contribution is a coordinated application of known quotient, record, 
 
 - **Philosopher, 10–15 minutes:** [philosophical baseline](docs/public/OVERVIEW.md) → [argument and ablation map](docs/public/ARGUMENTS.md) → [scope and limitations](docs/public/SCOPE.md).
 - **Mathematician, 30–60 minutes:** [formal guide and proof map](docs/public/RESULTS.md) → linked definitions, proofs and countermodels → [reproducibility](docs/public/REPRODUCIBILITY.md).
-- [Worked examples](docs/public/EXAMPLES.md) connect both routes.
+- [Worked examples](docs/public/EXAMPLES.md) lead with Newman’s objection and Mary/zombie contrasts, then connect them to finite models.
 
 ## Verify
 

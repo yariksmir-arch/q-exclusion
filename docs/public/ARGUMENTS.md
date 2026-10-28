@@ -12,7 +12,7 @@ The [baseline](OVERVIEW.md) is the canonical philosophical position. Critical ob
 | Independently formed constraints and usable comparison | Can jointly determine a target before a separate verification | Absolute independence or global extension from local consistency |
 | Construction and maintenance tables | Explain changes in enabled access and their ablation outcomes | Origin of previously unrepresented physical operations |
 
-These are compatible commitments and conditional results. They are not a deduction from experience to a complete physics. SS asks whether a further ontological commitment is justified; Q-exclusion asks what follows from a given account. Conflating them would turn a relative mathematical test into an unsupported metaphysical proof.
+These are compatible commitments and conditional results. They are not a deduction from experience to a complete physics. SS rejects an independent ontological remainder; the philosophical dispute concerns the justification of that rejection. Q-exclusion asks what follows from a given account. Conflating them would turn a relative mathematical test into an unsupported metaphysical proof.
 
 ## Ablation
 
@@ -34,7 +34,7 @@ The explanatory synthesis connects determination, access, retention, update and 
 | Mathematics | Image factorization, quotient congruence, sufficient records, relational joins and finite transition arguments are known mathematics or scoped applications. No theorem-level novelty is certified. |
 | Philosophy | SS and experiential primacy are adopted commitments with substantive opposing arguments. Compatibility checks do not confirm SS. |
 | Explanatory synthesis | One auditable connection between scoped determination, implemented access and maintenance; no additional fundamental entity. |
-| Open work | Justification of SS, experiential/scientific comparisons, implementation beyond supplied grammars and broader proof mechanization remain open. |
+| Open work | Arguments for or against SS, adequacy of experiential/scientific comparisons, implementation beyond supplied grammars and broader proof mechanization remain open. Fixed-organization phenomenal variation and an independent modal remainder are excluded conditionally by SS; they are not unresolved internal requirements. |
 
 The [formal guide](RESULTS.md) gives the chain from each published result family to its assumptions, proofs, countermodels and executable witnesses.
 
