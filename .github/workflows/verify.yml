@@ -17,6 +17,7 @@ jobs:
       - run: python -B research/verification/verify_public.py
       - run: python -B research/regression/canonical_regression.py
       - run: python -B research/regression/portable_regression.py
+      - run: python -B research/verification/open_histories_check.py
       - run: python -B research/verification/verify_public.py
       - run: git diff --exit-code
   python-portability:
@@ -35,5 +36,6 @@ jobs:
           python-version: '3.12'
       - run: python -B research/verification/verify_public.py
       - run: python -B research/regression/portable_regression.py
+      - run: python -B research/verification/open_histories_check.py
       - run: python -B research/verification/verify_public.py
       - run: git diff --exit-code

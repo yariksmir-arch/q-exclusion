@@ -26,3 +26,7 @@ The abbreviations below are result identifiers, not additional primitives. Each 
 The files ending MODEL_ZOO give expanded finite tables for their paired theory files. [Countermodels](../../research/COUNTERMODELS.md) indexes central failures. [Reproducibility](REPRODUCIBILITY.md) maps suite names to exact commands. Passing an enumerated case does not prove the general theorem.
 
 A 30–60-minute route is core definitions → T0/RR proofs → transport → record sufficiency and support-expansion failure → static/update control distinction → joint constraints and the parity example → verification. Optional prediction and physical-representation appendices are not premises of the philosophical position.
+
+## Open histories: conditional audit
+
+The [historical organization report](../../research/OPEN_HISTORICAL_MULTIPLICITY.md) applies existing factorization, record/control and independent-constraint criteria. OH-P1–2 distinguish determination, static sufficiency, update and retention; OH-N1–2 reject causal reconstruction from terminal records alone and world counting by raw representatives. The report includes assumptions, proofs, failure models and Q/transport audits. Its contribution is conceptual clarification, with no theorem-level novelty claim.

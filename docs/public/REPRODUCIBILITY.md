@@ -63,3 +63,7 @@ MIT and CC BY 4.0 are active under the owner’s approval recorded in LICENSE-ST
 The integrity verifier and archive writer use explicit validation that remains active with `-O`, `-OO` and `PYTHONOPTIMIZE`. The finite test suites deliberately reject optimized Python, because optimization would remove their mathematical assertions. Run the documented test commands without optimization. The publication gate rejects an unauthorized snapshot in both normal and optimized modes.
 
 Distribute a checksum sidecar whose recorded filename exactly matches its ZIP. Original and reproduced ZIPs each have their own correspondingly named `.sha256` sidecar. If any payload changes, regenerate MANIFEST.json, rebuild both ZIPs, and regenerate both sidecars. A matching digest verifies bytes, not publication permission or the legal provenance of ownership.
+
+## Open-history controls
+
+Run `python -B research/verification/open_histories_check.py` for the finite witnesses and exhaustive small map checks in the [historical organization audit](../../research/OPEN_HISTORICAL_MULTIPLICITY.md). These check conditional mathematics, not SS, physical branching or the existence of worlds. The public CI runs this check separately from the preserved suites.

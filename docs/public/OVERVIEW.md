@@ -42,3 +42,7 @@ Endogenous articulation names conditional changes in available discrimination th
 These are ordinary control mechanisms. If build;read was already in the original generated grammar, enabling it changes immediate access, not the discriminating power of that full grammar. An operation absent from the presentation requires additional implementation evidence. No final global repertoire is needed. Structural sufficiency, local access completeness and completion of articulation therefore remain distinct.
 
 Experience, memory and report also have different access conditions. Equal reports can compress different discriminations; their equality establishes no equality or absence of experience. Physiological and experiential comparisons require evidence preserving the meaning of the named contrasts. Such work can improve an account without first declaring either mode of access an independent substance.
+
+## Open historical multiplicity
+
+Adopting SS does not supply an absolutely unique history. A uniqueness claim needs structural grounds; withholding it requires neither many worlds nor branch probabilities. Historical distinctions acquire content through specified relations, records and articulation, without mandatory human recognition or absolute boundaries. Time and causal history require independently justified reconstruction from relations. See [the argument and its limits](OPEN_HISTORIES.md).

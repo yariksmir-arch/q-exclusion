@@ -27,3 +27,7 @@ Available probes, routing, supported domains, stable updates and maintenance are
 Formation audits certify declared non-importation, not absolute causal or statistical independence. An empty compatibility class is inconsistency; local consistency does not guarantee global extension. Abstract isomorphisms select no privileged representative and supply no physical process.
 
 Incidence determines neither a metric nor spacetime. Exact represented intersections/unions differ from relative order bounds. Quantum record examples assume quantum mechanics; they do not derive it. No reconstruction of consciousness, QM, GR, fundamental time, objective chance or a uniquely natural system boundary is claimed. External datasets and physical validation are unnecessary for, and absent from, the finite checking route.
+
+## Historical organization
+
+[Open historical multiplicity](OPEN_HISTORIES.md) is interpretive permission under SS. Neither an objective totality of worlds nor an absolute history count, boundary or probability is inferred. Independent agreement does not automatically reconstruct causes; stable records need not select a unique history. Relational order is not automatically time. No physical branching mechanism or new mathematical theorem is claimed.
