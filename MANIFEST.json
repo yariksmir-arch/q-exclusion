@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "source_commit": "b6ec42ab37554c3ab9c50be3ee190c6745a25126",
+  "source_commit": "0d19887b4f86cf1fdd29e09b418b66312e9ec639",
   "licensing_status": "ACTIVE",
   "release_authorized": true,
   "publication_and_push_authorized": true,
@@ -128,8 +128,8 @@
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
       "origin": "project-material-owner-approved",
-      "bytes": 8538,
-      "sha256": "e070356971be3b6ba1b4d084d020dcb6a11941aaa3d46786eefaeb0b6bdd4bec"
+      "bytes": 9313,
+      "sha256": "59f0fb3295fa4c69c4a6844b381ee5281bd31618811751d971ce40d63ca4079a"
     },
     {
       "path": "docs/public/OPEN_HISTORIES.md",
@@ -169,8 +169,8 @@
     },
     {
       "path": "docs/public/SCOPE.md",
-      "bytes": 6481,
-      "sha256": "947882da5a73d1be11edb54e5808d336710f73b36976f3f26644621ce723e6c6",
+      "bytes": 6951,
+      "sha256": "ad59034e6083e4974a6c7d1e3861cf25e493579ca06f78ca110c6e362797d3a4",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -542,8 +542,8 @@
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
       "origin": "project-material-owner-approved",
-      "bytes": 19619,
-      "sha256": "d5857338b3968d7e78e99312672efb4502c6ce585fa0416da2eb8113f6caf236"
+      "bytes": 20414,
+      "sha256": "e200f86479ad098cc4a1412b95f5d0968dd70d9fb8ee0ab15cca4a47813ece69"
     },
     {
       "path": "research/interfaces/CONTROLS.md",
