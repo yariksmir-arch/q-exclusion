@@ -18,3 +18,14 @@ These are primary references and comparisons. The mathematical arguments used he
 | Zurek, W. H. (2007), “Quantum origin of quantum jumps,” *Phys. Rev. A* 76, 052110; [author manuscript](https://arxiv.org/abs/quant-ph/0703160) | Known unperturbed-record/orthogonality argument under explicit quantum premises |
 
 No literature-wide priority or novelty claim is made. The optional Le Cam deficiency formula uses the normalization stated in INTERFACE_QUESTIONS.md; it is a comparison, not a proved reconstruction theorem.
+
+## Phenomenal structuralism
+
+These comparisons use the primary texts, including the argument and reply sections; see [the comparison](PHENOMENAL_STRUCTURALISM.md). No article is redistributed.
+
+| Reference | Use and reading location |
+|---|---|
+| Lyre, H. (2022), “Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness,” *Neuroscience of Consciousness* 2022(1), niac012; [DOI](https://doi.org/10.1093/nc/niac012), [full text](https://academic.oup.com/nc/article/2022/1/niac012/6673758) | Relational individuation, content/general consciousness distinction, spatiotemporal grounding; “Reductive physicalism” and “Neurophenomenal holism” |
+| Kleiner, J. (2024), “Towards a structural turn in consciousness science,” *Consciousness and Cognition* 119, 103653; [DOI](https://doi.org/10.1016/j.concog.2024.103653), [published text](https://epub.ub.uni-muenchen.de/120081/1/1-s2.0-S1053810024000205-main.pdf) | §§3–5: metaphysics, mapping limits and quality-space methodology |
+| Negro, N. (2025), “Three arguments against metaphysical structuralism in consciousness research,” *Synthese* 206, article 8; [DOI](https://doi.org/10.1007/s11229-025-05103-6), [published text](https://d-nb.info/1374625108/34) | §§2–4: target distinction, all three objections and considered replies |
+| Isaac, A. M. C. (2025), “Phenomenal structure: What is it and what is it for?”, *Philosophy and the Mind Sciences* 6; [DOI](https://doi.org/10.33735/phimisci.2025.11773), [published text](https://www.pure.ed.ac.uk/ws/portalfiles/portal/596975618/IsaacPMS2025PhenomenalStructure.pdf) | §§2–6: geometry, constancy, valence, de-idealization, introspection and convergence limits |

@@ -8,9 +8,20 @@ Experience is primary access to determinacy: felt differences are a starting poi
 
 **Structural Sufficiency (SS) is the philosophical wager that there is no additional ontological determinacy beyond the substantive organization of differences and relations, including phenomenal character.** It excludes phenomenal variation stipulated to occur with substantive organization held fixed. That conditional consequence is settled within SS; the justification of SS remains contestable.
 
-Ontological economy motivates the wager: a gap in a particular account does not by itself establish an extra kind of fact. Here organization concerns substantive interaction, dependence, comparison and other relations; it cannot mean whatever guarantees the desired phenomenal answer. Encoding that answer into retained data can force mathematical factorization by construction, but supplies no argument for SS. Current physics, neurophysiology and behaviour are resources for investigation, without being certified to exhaust experience.
+The argument for SS asks what substantive work a proposed additional fact does. If it introduces a previously omitted dependence, difference or constraint, it enriches the theory and requires investigation. If it is postulated as a separate fact while substantive organization is held fixed, it is the independent ontological remainder SS excludes. Ontological economy supports this distinction but does not settle the dispute. An opponent may defend an enriched ontology on explanatory grounds; Q alone establishes no superiority of SS. Failure to identify additional content in a current articulation does not establish its absence in general. Organization cannot mean whatever guarantees the desired phenomenal answer: encoding that answer can force factorization without justifying SS. Current physics, neurophysiology and behaviour are resources for inquiry, without being certified to exhaust experience.
 
 SS concerns substantive determinacy, not completeness of a description. An unarticulated relational difference may exceed any current account. What SS rejects as a *principled inarticulable residue* is a purported determinate difference placed outside any substantive relational articulation, rather than a difference unavailable to a particular interface. This rejection implies neither eventual discovery nor a completed articulation, and requires no exhaustive nonexperiential account from which experience must be produced.
+
+## Content and grounds
+
+Substantive structural determinacy is not a syntactic form. A unary predicate can express substantive relations and constraints; a binary relation can merely disguise an arbitrary label. For a particular claim, the audit asks:
+
+1. **Content:** what difference, relation or constraint is asserted?
+2. **Grounds:** what warrants attributing that content to the subject matter rather than only to its formal representation?
+
+These are questions addressed to a concrete articulation, not new axioms, definitions of existence or a universal checking algorithm. Observability, an independent channel, predicate arity, experimental reproducibility and invariance under arbitrary rewritings are not additional mandatory criteria of content. A primary felt difference need not first have an external measurement procedure. Particular scientific claims still require grounds appropriate to what they assert.
+
+Three levels remain distinct: the content of a claim and grounds for accepting it; mathematical determination relative to a specified theory, checked by Q; and the conditional ontological exclusion of an independent remainder under SS. Bare extensional structure does not supply substantive content. This limitation does not itself require a nonstructural bearer or ground of relations.
 
 ## Why universal scope requires no global perspective
 
@@ -33,7 +44,7 @@ This is not verificationism. A difference unavailable through one interface may 
 
 **DEFINITION (interpretive terminology).** A perspective is a locally specified operational organization of available discriminations, relations and ways of access. Its dependencies are the specified procedures, readouts, records and usable comparisons. It is a summary role, not a new core object. Technical work uses “operational interface,” “local access,” “discrimination profile” and “available repertoire.”
 
-This role can be described for a measuring instrument. Its definition supplies no consciousness, subject, bearer of experience, psychological viewpoint or independently constituted physical system. Immediate phenomenal access is discussed separately. No collection of all perspectives is assumed.
+This role can be described for a measuring instrument. Its definition supplies no consciousness, subject, bearer of experience, psychological viewpoint or independently constituted physical system. The operational definition does not encompass immediate phenomenal access; this difference in articulation introduces no second ontological layer. No collection of all perspectives is assumed.
 
 Internal and external are relative to selective organization of interactions. Specify ports, intervention domains and supporting record/resource routes first; then test which dependencies mediate the task. External determinacy is constrained through interactions that can correct expectations. A choice of interface cannot arbitrarily choose those outcomes. Independent formation and held-out checks matter: copied reports or an echoing port are insufficient. Jointly usable constraints may fix a target that neither fixes alone. This gives scoped public checking, without absolute provenance or a global completion.
 

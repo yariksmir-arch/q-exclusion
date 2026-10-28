@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "source_commit": "6532f9aee52335fe56730abc746273e2f9f857dd",
+  "source_commit": "640f8130dbe73ccb4813a209d7de1b4f6822d7e0",
   "licensing_status": "ACTIVE",
   "release_authorized": true,
   "publication_and_push_authorized": true,
@@ -106,8 +106,8 @@
     },
     {
       "path": "docs/public/BIBLIOGRAPHY.md",
-      "bytes": 3425,
-      "sha256": "cb26d937a443d71bf8a6baad2c84bf72b80e297d9a2e3557177a395a133d6815",
+      "bytes": 5167,
+      "sha256": "a5c54843d66f9046fb9cef40fe943f2e03c2db0b5a29109c7dab6b01a2ea3ffe",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -142,8 +142,17 @@
     },
     {
       "path": "docs/public/OVERVIEW.md",
-      "bytes": 8184,
-      "sha256": "9508bd3cf1f268df52bda487a9c8e4718bba7ec54280c02f717b6c058ad8466c",
+      "bytes": 9961,
+      "sha256": "58176416257cfc131ec7732d705215cd31c7908e54d1d2ea3e9734f13e4b8555",
+      "license": "CC-BY-4.0",
+      "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
+      "copyright_year": 2026,
+      "origin": "project-material-owner-approved"
+    },
+    {
+      "path": "docs/public/PHENOMENAL_STRUCTURALISM.md",
+      "bytes": 5667,
+      "sha256": "ef8d6e9d05f8918b265a9953b0f00a00a22ae895677b2a41ec06a14fb3a55ed9",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -160,8 +169,8 @@
     },
     {
       "path": "docs/public/RESULTS.md",
-      "bytes": 7006,
-      "sha256": "e8cc874e5970d350ce57b2e179d0e1340106f42c4168e873fb4dcf178612ac11",
+      "bytes": 8389,
+      "sha256": "dcc4dde80511044d6e4a973def7d20fc6c47a072440a5a8c09737b3dbfcd2d9e",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -169,8 +178,8 @@
     },
     {
       "path": "docs/public/SCOPE.md",
-      "bytes": 7415,
-      "sha256": "895c6c8181b43452e5dd352fc4e08e1501aa1b153b9aab1b3d7b1c98a7a5562f",
+      "bytes": 8456,
+      "sha256": "29380270ea33bb9c598a86b3090fe9ce2ddf7b1989470335a6a5911beb320b30",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -214,8 +223,8 @@
     },
     {
       "path": "normative/README.md",
-      "bytes": 1800,
-      "sha256": "ca4b231ed7cb9391980e7f6a104135124cf101fecb9ed8afadcd4528971b0089",
+      "bytes": 2760,
+      "sha256": "2d86cac01554875ef941648a18d4a4ba46a0172ab1dfd7d7aaccf471398f5384",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,

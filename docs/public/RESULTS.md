@@ -4,6 +4,23 @@ A presentation supplies typed arrangements, partial operations and a stated repe
 
 Read [normative scope and terminology](../../normative/README.md), then [frozen definitions](../../normative/01_FROZEN_CORE.md) and [typing rules](../../normative/02_FORMAL_LANGUAGE.md), then [core proofs](../../research/INTEGRATED_THEORY.md). In frozen core §2 the shared Q/SS heading names the formal descent criterion only; it proves no philosophical SS claim. Factorization is unique on the occupied image. Unused base labels have no canonical target values.
 
+## What the formal criterion establishes
+
+| Question | Scope |
+|---|---|
+| Extensional factorization | Constancy on the declared forgetful fibres gives a set-level factor on the occupied image. |
+| Expressibility | A formula in a chosen language requires its own definability argument; set-level factorization supplies none. |
+| Computability | An algorithm needs effective presentations and a computability argument. |
+| Procedural realizability | Obtaining or using an answer requires available procedures and implementation evidence. |
+| Substantive/empirical adequacy | Grounds are needed for the attributed relations and for whether the account captures the target contrasts. |
+| Explanatory interpretation | What the result explains depends on its interpretation and justified dependencies. |
+
+These do not automatically entail one another. In particular, empirical descent determines well-definedness on a chosen quotient, not scientific meaningfulness in general; [the §6 scope note](../../normative/README.md#scope-of-empirical-descent-6) explains the role of representation-dependent and covariant quantities.
+
+T1 transports the declared content under the comparisons specified in PI2–PI7. It does not establish invariance under arbitrary rewritings, model adequacy or ontological equivalence. The existing conditions are retained in the proof map below.
+
+## Proof map
+
 The abbreviations below are result identifiers, not additional primitives. Each source states its types, assumptions, proofs and removal countermodels. “THM” means a conditional mathematical statement in this formalization; none is certified as theorem-level novel.
 
 | Claim family | Assumptions and proof | Countermodel and check |
