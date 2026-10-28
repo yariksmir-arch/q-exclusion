@@ -22,6 +22,7 @@ With Python 3.12 and Windows PowerShell, from this repository root:
 
 ~~~powershell
 python -B research/regression/canonical_regression.py
+python -B research/verification/open_histories_check.py
 python -B research/verification/verify_public.py
 ~~~
 
@@ -31,7 +32,7 @@ No package installation, external dataset, account or service is required for lo
 
 Copyright © 2026 Yaroslav Vyacheslavovich Smirnov (Смирнов Ярослав Вячеславович).
 
-Software and configuration: [MIT](LICENSE). Research text, documentation and metadata: [CC BY 4.0](LICENSE-CONTENT.md). Third-party materials retain their respective rights holders’ terms; see [NOTICE.md](NOTICE.md). These licenses are active. The owner authorized publication of this reviewed snapshot at [yariksmir-arch/q-exclusion](https://github.com/yariksmir-arch/q-exclusion) on 2026-10-16. This operational authorization is separate from recipients’ rights under the licenses.
+Software and configuration: [MIT](LICENSE). Research text, documentation and metadata: [CC BY 4.0](LICENSE-CONTENT.md). Third-party materials retain their respective rights holders’ terms; see [NOTICE.md](NOTICE.md). These licenses are active. The owner authorized open publication at [yariksmir-arch/q-exclusion](https://github.com/yariksmir-arch/q-exclusion) on 2026-10-16. The repository was subsequently updated, including Open Historical Multiplicity on 2026-10-28. These are publication-history dates, not new license grants; the existing licenses remain in effect. Operational publication authorization is separate from recipients’ rights under the licenses.
 
 ## Open histories
 

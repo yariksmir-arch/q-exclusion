@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "source_commit": "7d7178261d1f1c6d08576c4a9eefda571da57be2",
+  "source_commit": "ac503d0b2089f62ec2cfef34ecdc53e7f9f9d26b",
   "licensing_status": "ACTIVE",
   "release_authorized": true,
   "publication_and_push_authorized": true,
@@ -25,8 +25,8 @@
     },
     {
       "path": ".github/workflows/verify.yml",
-      "bytes": 1540,
-      "sha256": "8cba63e6cfe06862791c1ca35dd108db084a8352f166c3da01b7b85f8789d078",
+      "bytes": 1604,
+      "sha256": "f992188b103af8bd977b4d2499e16513227a370d96f4e0fd84af2758ab261c0f",
       "license": "MIT",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -88,8 +88,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3621,
-      "sha256": "720e6628e343fe5419a620c4f3ab3df3e819599cf29c5af3ef26b7b5af667bf8",
+      "bytes": 3859,
+      "sha256": "163c9da1719a7d37893f7d7f8976006623ee74f2bd952af0414d8df69b73c2be",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -97,8 +97,8 @@
     },
     {
       "path": "docs/public/ARGUMENTS.md",
-      "bytes": 4403,
-      "sha256": "1279a491512409b8efd54eb9c08b3c3c8e6065184c18e60cf95ad9f01e354634",
+      "bytes": 4554,
+      "sha256": "3698584bf897d9fb8f7027fb0a157fc4cf4cfab8f7cc5551d3b2dcc5ccdac2b3",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -128,13 +128,13 @@
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
       "origin": "project-material-owner-approved",
-      "bytes": 8116,
-      "sha256": "e5b643f34adb75e92813716114836ad5628c8e1e8b2dfc3cad7e0dfa3ece364f"
+      "bytes": 8339,
+      "sha256": "50f4b320e2c01945d3a692a104de698a50a421827f599acb5f2098f38f314e85"
     },
     {
       "path": "docs/public/OVERVIEW.md",
-      "bytes": 7927,
-      "sha256": "5e023a2bf5ef95d4dd982539736e32fe96ea5437530d5a2d9c5bbb5d3b7c5327",
+      "bytes": 7950,
+      "sha256": "ad265adde64171150e28dd4e3244be905876be0235086fdb42527f30a0a5aa80",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -142,8 +142,8 @@
     },
     {
       "path": "docs/public/REPRODUCIBILITY.md",
-      "bytes": 6397,
-      "sha256": "c31c354a64577a69129753c1cae3973b89f0cd573a34f84466c2d0a4b86e0d03",
+      "bytes": 6831,
+      "sha256": "99d4abb4c0c3609a0b3a4912a2be031823c15f1e74ba7c4274984afca91a31ae",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -425,8 +425,8 @@
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
       "origin": "project-material-owner-approved",
-      "bytes": 18027,
-      "sha256": "540a3c6ecdafa371b14bd077d387db97db276edfff8a99dde0bf930fd0038f49"
+      "bytes": 18244,
+      "sha256": "b06cdd0aa69c496527246a35c431250f2cb6fb1e833f3a40543ca921597871fc"
     },
     {
       "path": "research/PREDICTION_FOUNDATIONS.md",

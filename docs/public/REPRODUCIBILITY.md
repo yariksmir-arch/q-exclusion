@@ -10,6 +10,7 @@ From the public repository root:
 python -B research/verification/verify_public.py
 python -B research/regression/canonical_regression.py
 python -B research/regression/portable_regression.py
+python -B research/verification/open_histories_check.py
 python -B research/verification/verify_public.py
 ~~~
 
@@ -20,7 +21,8 @@ The canonical runner preserves the original PowerShell suite and its separate Py
 | Suite | Command after python -B | Evidence |
 |---|---|---|
 | Canonical Windows replay | research/regression/canonical_regression.py | 178 PowerShell witnesses plus separately counted control, semantic, articulation, question and incidence suites |
-| All Python suites | research/regression/portable_regression.py | Same Python suites plus the four model suites below and semantic-transition controls |
+| Preserved Python suites | research/regression/portable_regression.py | Same Python suites plus the four model suites below and semantic-transition controls; open-history controls run separately |
+| Open-history controls | research/verification/open_histories_check.py | Finite witnesses and exhaustive small map checks for record sufficiency, partial updates, retention and relabelling |
 | Construction/maintenance | research/verification/endogenous_check.py | 116 finite assertions; model tables and ablations |
 | Operational interfaces | research/verification/interface_check.py | Exact finite quotient/kernel/clamp controls |
 | Coordination | research/verification/coordination_check.py | Finite relation joins, deletion and relabelling controls |
@@ -32,13 +34,13 @@ These commands are read-only. Optional explicit output flags in a model script a
 
 ## Linux, macOS and CI
 
-The Python route uses platform-neutral standard-library APIs and is prepared for Linux/macOS. Those operating systems have not been executed locally in this release pass. The full canonical runner still invokes Windows PowerShell; the Python-only route does not replace its 178 checks. No unverified PowerShell port is advertised.
+The Python route uses platform-neutral standard-library APIs and is prepared for Linux/macOS. The [workflow for ac503d0](https://github.com/yariksmir-arch/q-exclusion/actions/runs/40654554647) passed on Windows, Ubuntu and macOS; Ubuntu/macOS execution was hosted, not local. The full canonical runner still invokes Windows PowerShell; the Python-only route does not replace its 178 checks. No unverified PowerShell port is advertised.
 
 The [CI workflow](../../.github/workflows/verify.yml) runs the full route on Windows and the Python route on Ubuntu/macOS, using pinned action commits and a read-only token. Published CI runs and their actual conclusions are available on the [repository Actions page](https://github.com/yariksmir-arch/q-exclusion/actions). Local verification remains independent of hosted CI.
 
 ## Snapshot and archive integrity
 
-MANIFEST.json lists every payload path, byte count, SHA-256 and effective license, plus the fixed source commit and frozen-file hashes. It excludes itself from its per-file hash list to avoid self-reference. The archive's external SHA-256 covers the manifest too. The verifier rejects extra files, missing files, hash changes, symlinks, broken local Markdown links and non-stdlib Python imports. It needs no internal history.
+MANIFEST.json lists every payload path, byte count, SHA-256 and effective license, plus the public parent commit (identified by source_commit_scope) and frozen-file hashes. It excludes itself from its per-file hash list to avoid self-reference. The archive's external SHA-256 covers the manifest too. The verifier rejects extra files, missing files, hash changes, symlinks, broken local Markdown links and non-stdlib Python imports. It needs no internal history.
 
 To reproduce the content ZIP, choose a new path outside the repository:
 

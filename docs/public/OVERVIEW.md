@@ -45,4 +45,4 @@ Experience, memory and report also have different access conditions. Equal repor
 
 ## Open historical multiplicity
 
-Adopting SS does not supply an absolutely unique history. A uniqueness claim needs structural grounds; withholding it requires neither many worlds nor branch probabilities. Historical distinctions acquire content through specified relations, records and articulation, without mandatory human recognition or absolute boundaries. Time and causal history require independently justified reconstruction from relations. See [the argument and its limits](OPEN_HISTORIES.md).
+Adopting SS does not supply an absolutely unique history. A claim of absolute historical uniqueness needs structural grounds; withholding it requires neither many worlds nor branch probabilities. Historical distinctions acquire content through specified relations, records and articulation, without mandatory human recognition or absolute boundaries. Time and causal history require independently justified reconstruction from relations. See [the argument and its limits](OPEN_HISTORIES.md).

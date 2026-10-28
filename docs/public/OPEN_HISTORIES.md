@@ -5,8 +5,8 @@
 ## The argument
 
 1. SS rejects an additional fact that varies independently of substantive organization. The formal Q test checks the narrower question of whether a specified fact is determined by a stated theory.
-2. A claim that just one historical organization is privileged needs either a structural criterion with a scoped uniqueness proof, or additional content. An unarticulated selector does not follow from SS.
-3. Withholding that extra uniqueness claim does not require a proof of many worlds or objective probabilities of branches. Conversely, a positive claim that several organizations exist still needs substantive grounds. Failure to prove uniqueness proves neither plurality nor its negation.
+2. Absolute historical uniqueness asserts that there is only one history, rather than multiple historical organizations. SS does not establish this claim; it requires structural grounds of its own. A privileged history is a different claim: one history is distinguished from others by a specified criterion or selector. Rejecting an ungrounded selector does not by itself settle absolute historical uniqueness.
+3. Withholding that claim of absolute historical uniqueness does not require a proof of many worlds or objective probabilities of branches. Conversely, a positive claim that several organizations exist still needs substantive grounds. Failure to prove uniqueness proves neither plurality nor its negation.
 4. Nothing here defines an objective domain of all worlds, their number, absolute boundaries or probabilities of existence. Open means that no exhaustive completion is postulated; it does not mean infinite or perpetually increasing multiplicity.
 
 A unique answer to a specified question, a unique empirical class and an absolutely unique history are different claims. For example, two raw descriptions can have identical records; that does not select one description, establish two worlds, or prove that no richer comparison can distinguish them. No common comparison is assumed for every pair of organizations.
