@@ -46,3 +46,7 @@ Experience, memory and report also have different access conditions. Equal repor
 ## Open historical multiplicity
 
 Adopting SS does not supply an absolutely unique history. A claim of absolute historical uniqueness needs structural grounds; withholding it requires neither many worlds nor branch probabilities. Historical distinctions acquire content through specified relations, records and articulation, without mandatory human recognition or absolute boundaries. Time and causal history require independently justified reconstruction from relations. See [the argument and its limits](OPEN_HISTORIES.md).
+
+## Modality
+
+Under SS, modal determinacy has no independently varying remainder beyond substantive organization. Particular theories can articulate compatibility, exclusion, capacities and counterfactual dependence without certifying their own completeness. The occurrence of an articulation supplies no automatic warrant for its described content; missing access establishes no absence of substantive difference. See [SS, modality and possible worlds](MODALITY.md) for examples, objections and comparisons.

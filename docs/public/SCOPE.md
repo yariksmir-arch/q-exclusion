@@ -31,3 +31,7 @@ Incidence determines neither a metric nor spacetime. Exact represented intersect
 ## Historical organization
 
 [Open historical multiplicity](OPEN_HISTORIES.md) is interpretive permission under SS. Neither an objective totality of worlds nor an absolute history count, boundary or probability is inferred. Independent agreement does not automatically reconstruct causes; stable records need not select a unique history. Relational order is not automatically time. No physical branching mechanism or new mathematical theorem is claimed.
+
+## Modal grounding and articulation
+
+The [modal interpretation](MODALITY.md) inherits two strong objections: that an appeal to organization may already borrow modality rather than explain it, and that a theory may lack adequate grounds for its particular constraints. SS rejects a separately varying remainder; Q does not certify that a chosen account captures the relevant organization. Articulation occurrence is not truth of its content, mathematical compatibility is not implementation, and conditioning is not intervention. The zombie commitment concerns fixed substantive organization, never equal reports or present inability to distinguish.

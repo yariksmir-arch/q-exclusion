@@ -41,3 +41,7 @@ The [formal guide](RESULTS.md) gives the chain from each published result family
 ## Historical uniqueness
 
 SS does not entail absolute historical uniqueness. This claim requires its own structural grounds; withholding it requires neither proof of many worlds nor branch probabilities. A privileged history, distinguished from others by a criterion or selector, is a separate claim. Non-entailment of absolute historical uniqueness is distinct from positive evidence for multiple organizations and from a many-worlds ontology; positive multiplicity claims also require substantive grounds. See [open histories](OPEN_HISTORIES.md).
+
+## Modal determinacy
+
+Adopting SS excludes an additional modal fact stipulated to vary with substantive organization held fixed. This is a philosophical consequence of SS, not a theorem of Q. The Q-test instead asks which particular attributions descend from a stated account; an incomplete account can omit substantive differences. Compatibility in a model alone establishes neither an instantiated history nor a capacity of the described arrangement. See [the positive modal interpretation](MODALITY.md).

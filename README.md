@@ -37,3 +37,7 @@ Software and configuration: [MIT](LICENSE). Research text, documentation and met
 ## Open histories
 
 SS does not establish absolute historical uniqueness. Structurally differentiated historical organizations are admissible without postulating a space or count of all worlds. This is an interpretive clarification, not a proof of many worlds or new physics. See [open histories, scientific comparisons and limits](docs/public/OPEN_HISTORIES.md).
+
+## Modality under SS
+
+[SS, modality and possible worlds](docs/public/MODALITY.md) gives a positive interpretation through capacities, constraints and dependencies. Under SS, modal determinacy has no independently varying remainder beyond substantive organization; a current theory need not exhaust that organization. The distinction between an articulation and its described content preserves the limits of Open Histories.

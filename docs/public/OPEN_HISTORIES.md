@@ -46,3 +46,7 @@ A useful adverse result is [Dowker and Kent, Properties of Consistent Histories 
 **Open:** independently justified causal and temporal reconstruction, empirical criteria for retention across changing repertoires, and an application producing content beyond the existing record/control framework. No theorem-level novelty, new physics, Born-rule derivation or measurement-problem solution is claimed. Universal criteria of individuality are outside this interpretation of SS. The negative research result is narrower: this pass adds no formal content beyond existing factorization, control and constraint tools.
 
 See the [formal argument, proofs and kill-tests](../../research/OPEN_HISTORICAL_MULTIPLICITY.md) and [reproducibility](REPRODUCIBILITY.md). Sources above were checked against primary publications/preprints; the comparison is targeted rather than an exhaustive novelty survey.
+
+## Modal alternatives
+
+A theoretical compatibility case does not become an instantiated history by being represented. Under SS, determinate modal differences must belong to substantive organization; this stronger philosophical claim does not certify a model as exhaustive. See [SS, modality and possible worlds](MODALITY.md) for the distinction between articulation occurrence, warranted content and an independent modal remainder.

@@ -30,3 +30,7 @@ A 30–60-minute route is core definitions → T0/RR proofs → transport → re
 ## Open histories: conditional audit
 
 The [historical organization report](../../research/OPEN_HISTORICAL_MULTIPLICITY.md) applies existing factorization, record/control and independent-constraint criteria. OH-P1–2 distinguish determination, static sufficiency, update and retention; OH-N1–2 reject causal reconstruction from terminal records alone and world counting by raw representatives. The report includes assumptions, proofs, failure models and Q/transport audits. Its contribution is conceptual clarification, with no theorem-level novelty claim.
+
+## Modality: interpretation using existing results
+
+[SS and modality](MODALITY.md) and the [research audit](../../research/SS_MODALITY.md) apply QD/descent, constraint restriction and existing control countermodels. No new theorem or mathematical module is introduced. The positive claim about modal determinacy is conditional on philosophical SS, separately from the mathematical determination test.
