@@ -1,6 +1,6 @@
 # Argument map
 
-The [baseline](OVERVIEW.md) is the canonical philosophical position. Critical objections are collected once in [Scope and limitations](SCOPE.md).
+The [baseline](OVERVIEW.md) adopts SS while keeping its justification distinct from what a particular theory determines. The map below shows what each commitment contributes.
 
 | Premise or input | Contribution | What does not follow |
 |---|---|---|
@@ -14,18 +14,15 @@ The [baseline](OVERVIEW.md) is the canonical philosophical position. Critical ob
 
 These are compatible commitments and conditional results. They are not a deduction from experience to a complete physics. SS rejects an independent ontological remainder; the philosophical dispute concerns the justification of that rejection. Q-exclusion asks what follows from a given account. Conflating them would turn a relative mathematical test into an unsupported metaphysical proof.
 
-## Ablation
+## Which claims depend on which inputs?
 
 | Remove | What survives | What is lost |
 |---|---|---|
-| SS | Experiential primacy and every mathematical result | Rejection of an additional phenomenal remainder; Q alone leaves enriched metaphysics open |
-| The Q admission rule | The same tables and ordinary mathematical statements | Explicit policing of inference from retained content; standard sound reasoning can supply the same discipline |
-| The label “Q-exclusion” alone | The admission rule and all mathematics | No independent mathematical content |
-| Construction/record/resource dependencies | SS, static factors and constraint intersection | Predictions about which later reads remain enabled under construction, fuel and routing ablations |
-| The label “endogenous articulation” alone | All specified mechanisms and predictions | No extra force or independent theorem |
-| The word “perspective” | The operational specification | No technical result; its role is a carefully limited interpretive summary |
+| SS | Experiential primacy and every mathematical result | Exclusion of an independent ontological remainder; Q alone leaves enriched metaphysics open |
+| Implemented probes, comparisons and decoders | Mathematical determination relative to supplied maps | A procedure for obtaining or using the answer |
+| Construction, record and resource dependencies | SS, static factors and constraint intersection | Predictions about enabled access under construction, fuel and routing changes |
 
-The explanatory synthesis connects determination, access, retention, update and maintenance while keeping their failure cases separate. It prevents a sufficient record from being mistaken for a working controller, or a local interface for consciousness. A comparative claim of improvement over existing scientific practice has not been tested.
+The explanatory synthesis connects determination, access, retention, update and maintenance while keeping their failure cases separate. A sufficient record need not be a working controller, and a local operational interface does not define consciousness. Comparative improvement over existing scientific practice has not been tested.
 
 ## Novelty and contribution
 
@@ -45,3 +42,5 @@ SS does not entail absolute historical uniqueness. This claim requires its own s
 ## Modal determinacy
 
 Adopting SS excludes an additional modal fact stipulated to vary with substantive organization held fixed. This is a philosophical consequence of SS, not a theorem of Q. The Q-test instead asks which particular attributions descend from a stated account; an incomplete account can omit substantive differences. Compatibility in a model alone establishes neither an instantiated history nor a capacity of the described arrangement. See [the positive modal interpretation](MODALITY.md).
+
+Next: [worked examples](EXAMPLES.md) follow the philosophical question through the formal test; [Scope](SCOPE.md) presents the objections.

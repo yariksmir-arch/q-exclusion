@@ -1,20 +1,17 @@
 # Q-Exclusion
 
-Q-Exclusion studies when a distinction follows from what a theory actually says, and how that differs from having a procedure that can access it.
+Q-Exclusion asks what a philosophical explanation is entitled to claim from the content it supplies. A difference between descriptions, a gap in access and an additional ontological fact require different arguments. The method makes those differences explicit, helping distinguish a substantive problem from an assumption introduced by its formulation.
 
-If a device reports only the first bit of a pair, 00 and 01 both report 0. No decoder of that report recovers the second bit. Another implemented probe can distinguish them. Missing content in one description does not establish its absence elsewhere.
+Experience is primary access to determinacy. **Structural Sufficiency (SS)** is the separate philosophical wager that substantive differences and relations exhaust determinacy, including phenomenal character. Phenomenal and nonphenomenal are not two initial ontological categories. SS excludes an independently varying phenomenal or modal remainder; it concerns substantive determinacy, not completeness of a description. Its justification remains open to criticism.
 
-For declared maps U:B⁺→B and F:B⁺→Y, determination by retained content means U(e₁)=U(e₂) implies F(e₁)=F(e₂). The resulting factor is unique on im U. This familiar mathematical criterion is the project's Q-exclusion discipline.
+The mathematical **Q-test** checks a narrower question: does a specified answer follow from retained content? For declared maps U:B⁺→B and F:B⁺→Y, this requires U(e₁)=U(e₂) to imply F(e₁)=F(e₂). The resulting factor is unique on im U. If a device reports only the first bit, 00 and 01 both report 0; no decoder of that report recovers the second bit. Another implemented probe can supply it. Missing content in an account establishes neither its absence elsewhere nor SS.
 
-Experience is primary access to determinacy. **Structural Sufficiency (SS)** adds a separate philosophical wager: no additional ontological determinacy exists beyond substantive organization of differences and relations, including phenomenal character. SS excludes the full philosophical zombie within that position. It does not require a complete nonexperiential account which must then produce experience. Available articulation can remain local and open to extension; SS requires no universal comparability. Absence of an available comparison is no warrant for Q-exclusion to identify the contents concerned. SS concerns substantive determinacy, not completeness of a description. It admits no principled inarticulable residue and promises no exhaustive local access. Phenomenal and nonphenomenal are not two initial ontological categories. The justification of SS remains open to criticism.
-
-The formal contribution is a coordinated application of known quotient, record, control and constraint mathematics. It separates determination from available access, static records from usable updates, and local agreement from global extension. Construction and maintenance models show how represented procedures can enable and sustain distinctions. No theorem-level mathematical novelty is claimed.
+Known quotient, record, control and constraint mathematics supports this discipline. The project connects determination, available access and the maintenance of distinctions, without claiming theorem-level mathematical novelty. The [worked example](docs/public/EXAMPLES.md) follows a question about substantive capacities from its philosophical formulation through the Q-test and SS to the evidence still needed.
 
 ## Read
 
-- **Philosopher, 10–15 minutes:** [philosophical baseline](docs/public/OVERVIEW.md) → [argument and ablation map](docs/public/ARGUMENTS.md) → [scope and limitations](docs/public/SCOPE.md).
+- **Philosopher, 15–20 minutes:** [baseline](docs/public/OVERVIEW.md) → [argument map](docs/public/ARGUMENTS.md) → [worked examples](docs/public/EXAMPLES.md) → [objections and limits](docs/public/SCOPE.md).
 - **Mathematician, 30–60 minutes:** [formal guide and proof map](docs/public/RESULTS.md) → linked definitions, proofs and countermodels → [reproducibility](docs/public/REPRODUCIBILITY.md).
-- [Worked examples](docs/public/EXAMPLES.md) lead with Newman’s objection and Mary/zombie contrasts, then connect them to finite models.
 
 ## Verify
 
