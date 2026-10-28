@@ -13,6 +13,8 @@ Known quotient, record, control and constraint mathematics supports this discipl
 - **Philosopher, 15–20 minutes:** [baseline](docs/public/OVERVIEW.md) → [argument map](docs/public/ARGUMENTS.md) → [worked examples](docs/public/EXAMPLES.md) → [objections and limits](docs/public/SCOPE.md).
 - **Mathematician, 30–60 minutes:** [formal guide and proof map](docs/public/RESULTS.md) → linked definitions, proofs and countermodels → [reproducibility](docs/public/REPRODUCIBILITY.md).
 
+[SS, Normativity and Agency](docs/public/NORMATIVITY.md) applies the same distinction between substantive explanation and independent remainder to biological function, moral revision and responsibility, using existing theories and a worked case.
+
 ## Verify
 
 With Python 3.12 and Windows PowerShell, from this repository root:
