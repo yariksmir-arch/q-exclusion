@@ -58,4 +58,4 @@ SS does not entail absolute historical uniqueness. This claim requires its own s
 
 Adopting SS excludes an additional modal fact stipulated to vary with substantive organization held fixed. This is a philosophical consequence of SS, not a theorem of Q. The Q-test instead asks which particular attributions descend from a stated account; an incomplete account can omit substantive differences. Compatibility in a model alone establishes neither an instantiated history nor a capacity of the described arrangement. See [the positive modal interpretation](MODALITY.md).
 
-Next: [worked examples](EXAMPLES.md) follow the philosophical question through the formal test; [Scope](SCOPE.md) presents the objections.
+Next: [objections and limits](SCOPE.md).

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "source_commit": "c42c8c3976cb11d8c26488fd129783532627df35",
+  "source_commit": "02f38f616b8e3aa6dd4b2f88d75fd67d9b0e2e9d",
   "licensing_status": "ACTIVE",
   "release_authorized": true,
   "publication_and_push_authorized": true,
@@ -97,8 +97,8 @@
     },
     {
       "path": "docs/public/ARGUMENTS.md",
-      "bytes": 8041,
-      "sha256": "436a541a10289ba1c9fd5eadbb84d7e4856728f19c09f0d847e7b2a57ad40344",
+      "bytes": 7943,
+      "sha256": "4bf5fcd2d1ef46021a7d3e7a00977d2c040f2299f2ed47fb1c0501264711fa81",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -115,8 +115,8 @@
     },
     {
       "path": "docs/public/EXAMPLES.md",
-      "bytes": 7778,
-      "sha256": "8a39cf62585c3f37b6bb461bc12d481f6af9dd2c1e1b601c9a646dab443fd778",
+      "bytes": 7786,
+      "sha256": "14117f6d3cca905cfadb32695dfe6c819966ab3dbc45e7c1bac3a7f4fab30051",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -160,8 +160,8 @@
     },
     {
       "path": "docs/public/PHENOMENAL_STRUCTURALISM.md",
-      "bytes": 6268,
-      "sha256": "c816a4d55bae061e874f48ed2b718b099e540aa0dcb98f529727d3aa6876f568",
+      "bytes": 6407,
+      "sha256": "0a784498c00732cf67a58d2c949b34d6e7a6266ad30865e125ffb2af8d716d2b",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,

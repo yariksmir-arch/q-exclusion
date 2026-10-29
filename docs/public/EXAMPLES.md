@@ -60,4 +60,4 @@ The full original grammar already contains build;read, so it already distinguish
 
 Consider declared contrasts E={a,b,c,d}, memory m mapping a,b to 0 and c,d to 1, and a report mapping both memory values to one label. The report loses distinctions retained in E and m. This conditional diagram concerns compression. Reading E as experiential contrasts requires its own evidence; it is not a definition or derivation of consciousness. Equal reports establish no equality or absence of experience. See [the typed compression example](../../research/INTERFACE_QUESTIONS.md).
 
-Next: [objections and limits](SCOPE.md). For the broader interpretations, see [modality](MODALITY.md) and [open histories](OPEN_HISTORIES.md).
+Next: [the philosophical baseline](OVERVIEW.md). For the broader interpretations, see [modality](MODALITY.md) and [open histories](OPEN_HISTORIES.md).
