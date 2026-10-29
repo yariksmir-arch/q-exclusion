@@ -1,5 +1,13 @@
 # Worked examples
 
+## Consciousness: where does the extra fact enter?
+
+The zombie question asks whether a physical duplicate could lack experience. Explaining perception, control and report can still leave felt character unexplained. The first task is to identify the phenomenal contrasts at issue and what the account actually preserves: equal behaviour does not establish equal experience, and a physical description is not certified to exhaust substantive organization.
+
+The additional demand arises when phenomenal variation is stipulated even with substantive organization held fixed. Under SS, that independent remainder is excluded; experience and its differences remain to be explained. Q alone asks whether an answer follows from the declared account. A failure can expose omitted relations without deciding between SS and its opponents.
+
+What changes is the explanatory task: investigate the dependencies and access conditions of particular contrasts, rather than require an extra phenomenal fact after those have been accounted for. Mary’s new colour acquaintance remains a substantive gain to assess, including what knowledge it supplies. No full relational inventory is required before that work can begin. [Scope](SCOPE.md) retains the conceivability and knowledge challenges; [phenomenal structuralism](PHENOMENAL_STRUCTURALISM.md) examines concrete proposals and their limits. This is a conditional philosophical application, not an explanation of consciousness from a table.
+
 ## One question followed through: what makes a capacity substantive?
 
 ### The philosophical problem
@@ -23,8 +31,6 @@ Under SS, a capacity difference must be a substantive organizational difference.
 ### The substantive question that remains
 
 Which inputs are supported, what responses and dependencies obtain, and what grounds the model's attribution of them? Construction, coupling and justified intervention rules can answer parts of that question. A diagram alone cannot. Newman's warning against empty structure remains; it does not become an internal demand that every substantive relation rest on a nonstructural foundation. An opponent can still challenge SS or argue that the proposed relational account is circular. Those arguments concern its justification, not a consequence already proved by the Q-test.
-
-The same separation matters for experience: equal reports do not establish equal phenomenal character, whereas a phenomenal difference stipulated at fixed substantive organization is excluded under SS. The [Mary and zombie objections](SCOPE.md) challenge that philosophical position; the diagnostic above does not model or explain consciousness.
 
 ## Finite illustrations
 

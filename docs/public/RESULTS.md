@@ -1,5 +1,13 @@
 # Formal guide and proof map
 
+Three questions organize the formal results:
+
+1. **When is information sufficient for an answer?** T0 and QD test determination of a specified target; CRS/AI distinguish sufficient records from available ways of using them.
+2. **When do new observations add distinctions?** RR requires represented separating probes. The construction models distinguish newly enabled access from distinctions already present in the full generated repertoire.
+3. **What survives a change of description?** T1/CC transports declared readouts, domains and operations under explicit compatibility conditions.
+
+The proof map below links each family to its assumptions and failure cases.
+
 A presentation supplies typed arrangements, partial operations and a stated repertoire of tests. Equality under the generated readouts defines contextual equivalence. The quotient retains those distinctions; an operation belongs to its empirical signature only after its domain and values descend.
 
 Read [normative scope and terminology](../../normative/README.md), then [frozen definitions](../../normative/01_FROZEN_CORE.md) and [typing rules](../../normative/02_FORMAL_LANGUAGE.md), then [core proofs](../../research/INTEGRATED_THEORY.md). In frozen core §2 the shared Q/SS heading names the formal descent criterion only; it proves no philosophical SS claim. Factorization is unique on the occupied image. Unused base labels have no canonical target values.

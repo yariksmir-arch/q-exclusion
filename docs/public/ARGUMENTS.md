@@ -35,6 +35,21 @@ The explanatory synthesis connects determination, access, retention, update and 
 
 The [formal guide](RESULTS.md) gives the chain from each published result family to its assumptions, proofs, countermodels and executable witnesses.
 
+## Philosophical neighbours
+
+These are established distinctions and developed proposals, not a consensus in favour of SS. The comparison concerns the cited versions, not every position bearing these names.
+
+| Approach and prior contribution | What Q-exclusion + SS uses | The project's philosophical wager |
+|---|---|---|
+| **Structural realism:** Worrall's epistemic programme defends structural continuity through theory change; see [Worrall (1989), *Dialectica* 43, 99–124](https://doi.org/10.1111/j.1746-8361.1989.tb00933.x). | Substantive relations matter; a representation needs warranted interpretation. | SS extends to phenomenal and modal determinacy; it does not follow from structural continuity in science. |
+| **Anti-haecceitism:** rejects differences consisting solely in which individuals occupy unchanged qualitative roles; formulations and arguments differ ([overview and sources](https://plato.stanford.edu/entries/haecceitism/)). | No independent identity selector follows from unchanged declared content. | SS rejects independent remainders more broadly. Neither Q nor SS identifies objects merely because a local repertoire cannot distinguish them. |
+| **Philosophy of consciousness:** knowledge and conceivability arguments distinguish functional explanation from phenomenal character; structuralist research investigates particular phenomenal relations ([comparisons](PHENOMENAL_STRUCTURALISM.md), [objections](SCOPE.md)). | Experience is retained as an explanandum; equal reports need not preserve it. | No phenomenal variation at fixed substantive organization; no derivation of experience from behaviour is supplied. |
+| **Modal theories:** possible-worlds semantics articulates modal inference; realism, fictionalism and dispositional accounts offer different interpretations ([sources and differences](MODALITY.md#connections-and-differences)). | Scoped cases, capacities and counterfactual dependencies. | Modal determinacy has no independent remainder; no completed world domain is required. |
+| **Pragmatism:** Dewey and Kitcher develop accounts of deliberation, inquiry and moral revision ([primary references](BIBLIOGRAPHY.md#normativity-and-agency)). | Reasons and consequences can support revisable assessments. | SS excludes a separately varying normative fact; it supplies no ethical theory or inference from acceptance to justification. |
+| **Inferentialism:** Brandom explains modal vocabulary through inferential roles while defending modal realism ([author text](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20%282021%29/Texts/Modal%20Expressivism%20and%20Modal%20Realism%20HUP.pdf)). | Articulating dependencies differs from adding a separate modal layer. | SS is an ontological commitment beyond Q; discursive practice is not a foundational premise. |
+
+The contribution claimed here is the coordinated use of these distinctions with explicit determination, access and maintenance audits. It is not priority for structural explanation or a proof of SS.
+
 ## Historical uniqueness
 
 SS does not entail absolute historical uniqueness. This claim requires its own structural grounds; withholding it requires neither proof of many worlds nor branch probabilities. A privileged history, distinguished from others by a criterion or selector, is a separate claim. Non-entailment of absolute historical uniqueness is distinct from positive evidence for multiple organizations and from a many-worlds ontology; positive multiplicity claims also require substantive grounds. See [open histories](OPEN_HISTORIES.md).

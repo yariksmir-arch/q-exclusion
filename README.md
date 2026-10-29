@@ -1,19 +1,26 @@
 # Q-Exclusion
 
-Q-Exclusion asks what a philosophical explanation is entitled to claim from the content it supplies. A difference between descriptions, a gap in access and an additional ontological fact require different arguments. The method makes those differences explicit, helping distinguish a substantive problem from an assumption introduced by its formulation.
+Could a physical duplicate of a person lack experience? The philosophical zombie makes a familiar difficulty vivid: after an account of perception, discrimination and report, we can still ask why there is felt character at all. But does that question identify an omitted substantive difference, or demand a further fact even with substantive organization held fixed? A physical description alone does not settle which of these is being proposed.
 
-Experience is primary access to determinacy. **Structural Sufficiency (SS)** is the separate philosophical wager that substantive differences and relations exhaust determinacy, including phenomenal character. Phenomenal and nonphenomenal are not two initial ontological categories. SS excludes an independently varying phenomenal or modal remainder; it concerns substantive determinacy, not completeness of a description. Its justification remains open to criticism.
+**Structural Sufficiency (SS)** rejects that demand for a further fact: no additional ontological determinacy varies independently of substantive differences and relations, including phenomenal character. Experience is primary access to determinacy, not something to be eliminated. SS requires neither a complete nonexperiential description nor a global perspective from which every relation can be surveyed.
 
-The mathematical **Q-test** checks a narrower question: does a specified answer follow from retained content? For declared maps U:B⁺→B and F:B⁺→Y, this requires U(e₁)=U(e₂) to imply F(e₁)=F(e₂). The resulting factor is unique on im U. If a device reports only the first bit, 00 and 01 both report 0; no decoder of that report recovers the second bit. Another implemented probe can supply it. Missing content in an account establishes neither its absence elsewhere nor SS.
+**Q-exclusion** separates two tasks. The mathematical Q-test checks whether a specified answer follows from a stated account; failure calls for new content relative to that account. SS separately excludes an independent ontological remainder. When an allegedly inexplicable residue appears, first examine whether the question itself introduced that extra requirement. Missing knowledge alone establishes no such remainder, and the Q-test does not prove SS.
 
-Known quotient, record, control and constraint mathematics supports this discipline. The project connects determination, available access and the maintenance of distinctions, without claiming theorem-level mathematical novelty. The [worked example](docs/public/EXAMPLES.md) follows a question about substantive capacities from its philosophical formulation through the Q-test and SS to the evidence still needed.
+The positive result is a more precise division of explanatory work: which phenomenal contrasts need accounting for, what supports a capacity or counterfactual, and which circumstances matter to responsibility? These questions retain their content under SS. The [worked examples](docs/public/EXAMPLES.md) distinguish them from the extra ontological demand. Known factorization, quotient, record and control mathematics checks what follows from supplied content and available access; no theorem-level mathematical novelty is claimed.
 
 ## Read
 
 - **Philosopher, 15–20 minutes:** [baseline](docs/public/OVERVIEW.md) → [argument map](docs/public/ARGUMENTS.md) → [worked examples](docs/public/EXAMPLES.md) → [objections and limits](docs/public/SCOPE.md).
 - **Mathematician, 30–60 minutes:** [formal guide and proof map](docs/public/RESULTS.md) → linked definitions, proofs and countermodels → [reproducibility](docs/public/REPRODUCIBILITY.md).
 
-[SS, Normativity and Agency](docs/public/NORMATIVITY.md) applies the same distinction between substantive explanation and independent remainder to biological function, moral revision and responsibility, using existing theories and a worked case.
+Applications, each with its own stated limits:
+
+- [Consciousness and phenomenal determinacy](docs/public/PHENOMENAL_STRUCTURALISM.md): comparisons with structuralist consciousness research and the Mary, novel and isolated experience objections; philosophical assessment with open adequacy questions.
+- [Modality and possible worlds](docs/public/MODALITY.md): capacities, constraints and counterfactuals without a completed world catalogue; interpretation conditional on SS.
+- [Open histories](docs/public/OPEN_HISTORIES.md): why SS does not entail absolute historical uniqueness; interpretive permission, not evidence for many worlds.
+- [Normativity, ethics and free will](docs/public/NORMATIVITY.md): function, moral revision, control and responsibility; conditional application using existing theories, without deriving an ethical verdict.
+
+The [comparison map](docs/public/ARGUMENTS.md#philosophical-neighbours) locates the philosophical wager among its predecessors.
 
 ## Verify
 
@@ -32,11 +39,3 @@ No package installation, external dataset, account or service is required for lo
 Copyright © 2026 Yaroslav Vyacheslavovich Smirnov (Смирнов Ярослав Вячеславович).
 
 Software and configuration: [MIT](LICENSE). Research text, documentation and metadata: [CC BY 4.0](LICENSE-CONTENT.md). Third-party materials retain their respective rights holders’ terms; see [NOTICE.md](NOTICE.md). These licenses are active. The owner authorized open publication at [yariksmir-arch/q-exclusion](https://github.com/yariksmir-arch/q-exclusion) on 2026-10-16. The repository was subsequently updated, including Open Historical Multiplicity on 2026-10-28. These are publication-history dates, not new license grants; the existing licenses remain in effect. Operational publication authorization is separate from recipients’ rights under the licenses.
-
-## Open histories
-
-SS does not establish absolute historical uniqueness. Structurally differentiated historical organizations are admissible without postulating a space or count of all worlds. This is an interpretive clarification, not a proof of many worlds or new physics. See [open histories, scientific comparisons and limits](docs/public/OPEN_HISTORIES.md).
-
-## Modality under SS
-
-[SS, modality and possible worlds](docs/public/MODALITY.md) gives a positive interpretation through capacities, constraints and dependencies. Under SS, modal determinacy has no independently varying remainder beyond substantive organization; a current theory need not exhaust that organization. The distinction between an articulation and its described content preserves the limits of Open Histories.
