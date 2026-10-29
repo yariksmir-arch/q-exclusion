@@ -10,7 +10,7 @@ The positive result is a more precise division of explanatory work: which phenom
 
 ## Read
 
-- **Philosopher, 15–20 minutes:** [baseline](docs/public/OVERVIEW.md) → [argument map](docs/public/ARGUMENTS.md) → [worked examples](docs/public/EXAMPLES.md) → [objections and limits](docs/public/SCOPE.md).
+- **Philosopher, 15–20 minutes:** [worked examples](docs/public/EXAMPLES.md) → [baseline](docs/public/OVERVIEW.md) → [argument map](docs/public/ARGUMENTS.md) → [objections and limits](docs/public/SCOPE.md).
 - **Mathematician, 30–60 minutes:** [formal guide and proof map](docs/public/RESULTS.md) → linked definitions, proofs and countermodels → [reproducibility](docs/public/REPRODUCIBILITY.md).
 
 Applications, each with its own stated limits:

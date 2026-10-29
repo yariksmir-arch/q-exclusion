@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "source_commit": "860b58dee144752308f46560058748d69d3ea8d5",
+  "source_commit": "c42c8c3976cb11d8c26488fd129783532627df35",
   "licensing_status": "ACTIVE",
   "release_authorized": true,
   "publication_and_push_authorized": true,
@@ -89,7 +89,7 @@
     {
       "path": "README.md",
       "bytes": 4560,
-      "sha256": "88d1040dae4681ce602651b3268aba2474139ffa175f6afc72422d2ca19582b1",
+      "sha256": "021f3ce8aed20517247da18e53d83128d0323fe978bfa9e68ce87d4ce39cc00d",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -160,8 +160,8 @@
     },
     {
       "path": "docs/public/PHENOMENAL_STRUCTURALISM.md",
-      "bytes": 5667,
-      "sha256": "ef8d6e9d05f8918b265a9953b0f00a00a22ae895677b2a41ec06a14fb3a55ed9",
+      "bytes": 6268,
+      "sha256": "c816a4d55bae061e874f48ed2b718b099e540aa0dcb98f529727d3aa6876f568",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
