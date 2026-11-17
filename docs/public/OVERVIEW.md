@@ -60,6 +60,8 @@ Experience, memory and report also have different access conditions. Equal repor
 
 ## Open historical multiplicity
 
+The organization described by SS includes substantive transformations and their constraints, without requiring a completed description. Mathematical necessity can restrict how independently justified physical relations may combine: a boundary flux must enter a conservation balance, for example. It establishes consequences of the supplied conditions, not their physical realization or a unique physical theory. Extending a dynamical context preserves or refines old predictions only where preparations, operations and outcomes have justified comparison maps and the extended process respects them. A new influence or a corrected approximation can change those predictions. Openness neither guarantees preservation of every local formula nor rules out universal laws supported by independently justified constraints.
+
 Adopting SS does not supply an absolutely unique history. A claim of absolute historical uniqueness needs structural grounds; withholding it requires neither many worlds nor branch probabilities. Historical distinctions acquire content through specified relations, records and articulation, without mandatory human recognition or absolute boundaries. Time and causal history require independently justified reconstruction from relations. See [the argument and its limits](OPEN_HISTORIES.md).
 
 ## Modality

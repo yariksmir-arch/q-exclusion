@@ -23,6 +23,14 @@ Quantum uncertainty alone supplies no branch-producing operation. In a quantum a
 
 ## Scientific neighbours and differences
 
+### Quantum organizations and phenomenal exclusion
+
+If quantum dynamics substantively supports several organizations of observation, SS excludes assigning phenomenal status to only one by an additional absolute selector independent of substantive differences. This is a conditional philosophical consequence of SS. Establishing the organizations and their phenomenal relevance remains substantive work: neither a computational register, equal reports nor an arbitrary decomposition of a state establishes consciousness or equivalent phenomenal status. Decoherence can support persistent correlations under specified interactions and access conditions; it supplies neither an exact inventory of worlds nor fundamental irreversibility.
+
+The dispute is partly about what organization the physics supplies. Brown and Wallace argue that wave-function patterns can already do the work attributed to occupied configurations; Valentini and Lazarovici contest that equivalence on physical and interpretive grounds. Bohmian configurations guide the account of particle motion, records and effective wave functions; they cannot simply be dismissed as decorative selectors. An ontological pilot wave and a nomological wave function also carry different commitments about what is physically instantiated. See the primary sources in the [bibliography](BIBLIOGRAPHY.md#quantum-organizations).
+
+A substantive role for configuration does not, by itself, establish exclusive phenomenality; a claim that an unoccupied component realizes an organization of observation also requires grounds. SS permits physical differences to matter and requires an account of their relevance. It rejects an independent phenomenal addition at fixed substantive organization. This establishes neither Everett's interpretation nor consciousness in empty waves, and does not require every organization to have the same character. Unitary models of recording, forgetting and correction test physical correlations, without settling these attributions.
+
 These are comparisons of explanatory roles, not equivalence claims. Quantum structures in the cited theories are external premises, never imported into the Q-free core.
 
 | Approach | Relevant connection | Limit of the comparison |

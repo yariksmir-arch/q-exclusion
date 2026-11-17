@@ -30,6 +30,18 @@ These comparisons use the primary texts, including the argument and reply sectio
 | Negro, N. (2025), “Three arguments against metaphysical structuralism in consciousness research,” *Synthese* 206, article 8; [DOI](https://doi.org/10.1007/s11229-025-05103-6), [published text](https://d-nb.info/1374625108/34) | §§2–4: target distinction, all three objections and considered replies |
 | Isaac, A. M. C. (2025), “Phenomenal structure: What is it and what is it for?”, *Philosophy and the Mind Sciences* 6; [DOI](https://doi.org/10.33735/phimisci.2025.11773), [published text](https://www.pure.ed.ac.uk/ws/portalfiles/portal/596975618/IsaacPMS2025PhenomenalStructure.pdf) | §§2–6: geometry, constancy, valence, de-idealization, introspection and convergence limits |
 
+## Quantum organizations
+
+Primary texts for the conditional comparison in [Open histories](OPEN_HISTORIES.md#quantum-organizations-and-phenomenal-exclusion); no paper is redistributed. Preprint dates below identify the linked versions, not journal publication dates.
+
+| Reference | Use and reading location |
+|---|---|
+| Brown, H. R. and Wallace, D. (2004 preprint), “Solving the measurement problem: de Broglie-Bohm loses out to Everett”; [author text](https://arxiv.org/abs/quant-ph/0403094) | §§3–7: single-outcome argument, wave-function patterns, nomological alternative and functionalist premise |
+| Valentini, A. (2008 preprint), “De Broglie-Bohm Pilot-Wave Theory: Many Worlds in Denial?”; [author text](https://arxiv.org/abs/0811.0810) | §§3–7: equilibrium versus proposed nonequilibrium access, empty packets, classical limit and rejection of Everettian reification |
+| Lazarovici, D. (2019 preprint), “Position Measurements and the Empirical Status of Particles in Bohmian Mechanics”; [author text](https://arxiv.org/abs/1903.04555) | §§2–4: configuration, measurement and the disputed functional equivalence of particle and wave organizations |
+| Dürr, D., Goldstein, S. and Zanghì, N. (1992; 2003 arXiv posting), “Quantum Equilibrium and the Origin of Absolute Uncertainty”; [author text](https://arxiv.org/abs/quant-ph/0308039) | §5: conditional/effective wave functions depend on configuration and appropriate support separation; quantum equilibrium is an explicit condition |
+| Dürr, D., Goldstein, S. and Zanghì, N. (1995 preprint), “Bohmian Mechanics and the Meaning of the Wave Function”; [author text](https://arxiv.org/abs/quant-ph/9512031) | §§7–14: subsystem dynamics and the proposed nomological reading; no additional phenomenal-selection law is derived |
+
 ## Normativity and agency
 
 Sources for [SS, Normativity and Agency](NORMATIVITY.md). These are existing proposals and empirical studies, not premises or confirmations of SS. Primary texts or author/publisher excerpts support the stated comparisons.
