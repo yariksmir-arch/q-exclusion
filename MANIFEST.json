@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "source_commit": "61703f11c1c125c7ee89c05181cab601cf7860d1",
+  "source_commit": "84b6e91ec54b2102ecf352e2fe523982c10193d9",
   "licensing_status": "ACTIVE",
   "release_authorized": true,
   "publication_and_push_authorized": true,
@@ -106,8 +106,8 @@
     },
     {
       "path": "docs/public/BIBLIOGRAPHY.md",
-      "bytes": 11517,
-      "sha256": "f1c2ec6ad244694a64d2dab5624f7d7cde54f0b3081f824b258d68605749791d",
+      "bytes": 11770,
+      "sha256": "ace21775ecc35335be9833a8890e24fdb2c844ce416894c1e29efe39878ddcef",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
