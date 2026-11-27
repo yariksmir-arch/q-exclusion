@@ -80,8 +80,10 @@ are interface alphabets, not ontological strata or bearers of consciousness.
 The interpretation of E as experiential discrimination is externally stipulated;
 this package neither derives nor verifies that interpretation from reports.
 No primitive flag, observer or consciousness predicate is added to L1/L2.
-An actual experiential interface needs independent evidence of its distinctions;
-without that evidence it is `CONTRAST_NOT_AVAILABLE`, not a behavioural definition.
+Using this diagram for a scientific comparison requires grounds for its
+named distinctions and bridges. Without those supplied inputs the formal
+comparison is `CONTRAST_NOT_AVAILABLE`; this is no verdict that an immediately
+given difference is absent or must first receive external confirmation.
 
 ## CM IQ-C10: finite compression
 
@@ -103,7 +105,7 @@ does not provide an attention/memory procedure.
 
 | Question | Exact target / current verdict | Honest repair or boundary |
 |---|---|---|
-| Do the named experiential distinctions differ? | Declared E equality/discrimination relation, diagnostic well-typed | Scientific admission requires independently accessible E contrast; not defined by L |
+| Do the named experiential distinctions differ? | Declared E equality/discrimination relation, diagnostic well-typed | Scientific use needs grounds for this E comparison; givenness is not defined by L or external measurement |
 | Does memory distinguish a,b? | m(a)≠m(b), false in this finite model | This answers a memory question only |
 | Do reports distinguish 0,1? | l(0)≠l(1), false | Report compression, no conclusion about E equality |
 | Can report recover q or id_E? | Factor through lm, fails; residuals above | Weaken to report category or independently refine; no inverse selector |
@@ -111,7 +113,7 @@ does not provide an attention/memory procedure.
 | With neural n=(0,0,1,1), does N determine q? | Conditional mathematical factor q=h n; route separate | This stipulated positive control is not an empirical neural theory |
 | With neural n constant, does N determine q? | `UNDERDETERMINED`; two q-values on the same fibre | Independent discriminating procedure needed |
 | Why does this feel this way? | Could mean E contrast classification, discrimination mechanism, neural prediction or an explanatory bridge: unsplit wording `QUESTION_ILL_TYPED` | Specify explanandum and relation; none follows by renaming a report |
-| Why is there phenomenality at all? | No admitted predicate, causal/explanatory relation or comparison class: `TARGET_NOT_DEFINED` | External philosophical/new-theory question; not refuted or solved here |
+| Why is there phenomenality at all? | No admitted predicate, causal/explanatory relation or comparison class: `TARGET_NOT_DEFINED` | Audit the concrete contrast or external argument; no automatic second explanatory debt under SS; not refuted by a missing formal predicate |
 
 Same report can coexist with different richer structures: two two-entry
 extension packages have constant report `r`, one with a single E contrast
@@ -124,8 +126,9 @@ Semantic re-description preserves a question only under independently declared
 bijection of its answer contrast and commuting bridges. Calling a neural/report
 label an experience without such a bridge changes the target or encodes it.
 After compression the finer question is unsupported **at L**, not meaningless
-at E or in every enriched theory. No hard-problem solution, substrate-independence
-claim, reduction to behaviour or phenomenal primacy is established.
+at E or in every enriched theory. This diagram establishes no hard-problem solution, substrate-independence
+claim or reduction to behaviour. It proves neither the project's experiential
+primacy nor SS; those remain distinct philosophical commitments.
 
 Anti-ontology checkpoint: the E→M→L diagram is one conditional compression
 example. It is not a universal ladder, causal history, origin of experience,

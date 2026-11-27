@@ -87,6 +87,9 @@ but vacuous as an independent justification of the boundary. U, repertoire,
 extension class and contrast require external structural/procedural justification
 before admitting a target as old-theory content. Question definability neither
 chooses the boundary nor establishes verificationism/Structural Sufficiency.
+A factorized answer can still be used in an unsupported explanation: fibre
+constancy alone establishes neither explanatory direction nor independent
+warrant. This is a scope limit, not another kind of Q failure.
 
 Adequate bijections α:E→E', β:B→B', γ:A→A' with U'α=βU and Q'α=γQ
 give Ans_Q'(βb)=γ[Ans_Q(b)] and preserve all stated statuses. General

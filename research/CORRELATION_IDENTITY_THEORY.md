@@ -8,6 +8,12 @@ is a syntactic address in one record, never a bearer or a persistent object.
 The calculus may report forced co-reference facts, but it never chooses a
 completion or promotes one to L1/L2.
 
+This formal diagnostic supplies no identity of an experiencer, number of
+subjects or absolute boundary. A unique queried answer need not select a
+unique completion, organization or theory. Those interpretive claims require
+their own substantive grounds; neither compulsory pluralism nor a privileged
+bearer follows from this calculus.
+
 ## 1. Primitive vocabulary
 
 **DEF CI1 (record theory).** A finite record theory is

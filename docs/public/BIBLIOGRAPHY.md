@@ -6,7 +6,7 @@ These are primary references and comparisons. The mathematical arguments used he
 |---|---|
 | Burris, S. and Sankappanavar, H. P. (1981), *A Course in Universal Algebra*, Ch. I; [author edition](https://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) | Congruences, quotients and generated structure; general mathematical background |
 | Mac Lane, S. (1998), *Categories for the Working Mathematician*, 2nd ed.; [DOI](https://doi.org/10.1007/978-1-4757-4721-8) | Functors, natural transformations and coherent comparison; bibliographic attribution |
-| Nerode, A. (1958), “Linear automaton transformations,” *Proc. AMS* 9, 541–544; [DOI](https://doi.org/10.1090/S0002-9939-1958-0096619-7) | Context equivalence/minimality background; not an exact attribution of all present partial-control claims |
+| Nerode, A. (1958), “Linear automaton transformations,” *Proc. AMS* 9, 541–544; [DOI](https://doi.org/10.1090/S0002-9939-1958-0135681-9) | Context equivalence/minimality background; not an exact attribution of all present partial-control claims |
 | Hennessy, M. and Milner, R. (1985), “Algebraic laws for nondeterminism and concurrency,” *JACM* 32, 137–161; [DOI](https://doi.org/10.1145/2455.2460) | Branching versus observational semantics; full framework not reconstructed |
 | Blackwell, D. (1953), “Equivalent comparisons of experiments,” *Ann. Math. Statist.* 24, 265–272; [DOI](https://doi.org/10.1214/aoms/1177729032) | Optional stochastic comparison, not a probability premise of the core |
 | Shalizi, C. R. and Crutchfield, J. P. (2001), “Computational Mechanics: Pattern and Prediction, Structure and Simplicity”; [author manuscript](https://arxiv.org/abs/cond-mat/9907176) | Predictive equivalence under additional stochastic assumptions |
@@ -32,7 +32,7 @@ These comparisons use the primary texts, including the argument and reply sectio
 
 ## Quantum organizations
 
-Primary texts for the conditional comparison in [Open histories](OPEN_HISTORIES.md#quantum-organizations-and-phenomenal-exclusion); no paper is redistributed. Preprint dates below identify the linked versions, not journal publication dates.
+Primary texts for the conditional comparison in [Open histories](OPEN_HISTORIES.md#quantum-organizations-and-absolute-exclusivity); no paper is redistributed. Preprint dates below identify the linked versions, not journal publication dates.
 
 | Reference | Use and reading location |
 |---|---|

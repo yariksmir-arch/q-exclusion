@@ -128,6 +128,9 @@ accessibility. Along the retained-source graph, exact-data distinctions have
 not increased (AI6). The route is new interface content, not a fact recovered
 from the old availability-forgetting reduct. This is a useful architecture
 check, but standard factorization plus explicit reachability, not novel theory.
+A new route, a new question and a newly implemented source interaction are
+different changes. This interface audits declared maps and grammars; it is
+not a general account of concept formation or a complete source of differences.
 
 For an **empirical** no-gain statement, fix the complete old contextual source
 profile s:X→V whose kernel defines the old empirical equivalence, retain all

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "source_commit": "84b6e91ec54b2102ecf352e2fe523982c10193d9",
+  "source_commit": "2a34943858e3e0da185a787d2b5b351c7d4d53bf",
   "licensing_status": "ACTIVE",
   "release_authorized": true,
   "publication_and_push_authorized": true,
@@ -88,8 +88,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4560,
-      "sha256": "021f3ce8aed20517247da18e53d83128d0323fe978bfa9e68ce87d4ce39cc00d",
+      "bytes": 5235,
+      "sha256": "b9abcc773423f78ceff62a5f333019c90e49700a7e7a3e4592625d02b4a204d9",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -97,8 +97,8 @@
     },
     {
       "path": "docs/public/ARGUMENTS.md",
-      "bytes": 7943,
-      "sha256": "4bf5fcd2d1ef46021a7d3e7a00977d2c040f2299f2ed47fb1c0501264711fa81",
+      "bytes": 8739,
+      "sha256": "ab2d09b9d39dde9ad22eb722b355345bc1feb46cea7fa07ad632685f22fa3e0e",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -107,7 +107,7 @@
     {
       "path": "docs/public/BIBLIOGRAPHY.md",
       "bytes": 11770,
-      "sha256": "ace21775ecc35335be9833a8890e24fdb2c844ce416894c1e29efe39878ddcef",
+      "sha256": "7085a32efe89e9ae13727cc882c0df8405b44b7ab6bb2e7ec0dc90d5a4a02bc5",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -115,8 +115,8 @@
     },
     {
       "path": "docs/public/EXAMPLES.md",
-      "bytes": 7786,
-      "sha256": "14117f6d3cca905cfadb32695dfe6c819966ab3dbc45e7c1bac3a7f4fab30051",
+      "bytes": 8472,
+      "sha256": "26785d20a0ee476db472dc99615e8db44ef81d6e3181accdef62578238ca0639",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -128,8 +128,8 @@
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
       "origin": "project-material-owner-approved",
-      "bytes": 9537,
-      "sha256": "d08fdcc58d4f1961fea98cf0b9d3d80a9e99f7d7a6577ccfde65f4deb9d90a6c"
+      "bytes": 9907,
+      "sha256": "c77feeddd81c54450391b8c9ba9f12be3034471167d342235a97eb1f430084b9"
     },
     {
       "path": "docs/public/NORMATIVITY.md",
@@ -137,8 +137,8 @@
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
       "origin": "project-material-owner-approved",
-      "bytes": 9215,
-      "sha256": "b35d03d2738067ef537f1d0f9bbd2f4ae68a375e281e567276424ccf8d0b26d3"
+      "bytes": 9709,
+      "sha256": "fd0bdd855f50a7fb9107fcf6d6ffa1e041f5f82d2f98745d718159586337ca55"
     },
     {
       "path": "docs/public/OPEN_HISTORIES.md",
@@ -146,13 +146,13 @@
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
       "origin": "project-material-owner-approved",
-      "bytes": 10801,
-      "sha256": "6d423ae68080759d589297a0816548a58d62def31c7f330bb80f7f0e7421bd74"
+      "bytes": 11428,
+      "sha256": "08d0d5466644220261dcc1f2b2ac848eed08c4f1fcfe5b74e3eabed4ed202f00"
     },
     {
       "path": "docs/public/OVERVIEW.md",
-      "bytes": 11875,
-      "sha256": "7e8f64baea7dde578b4d6242e7ae24591666087f0bf89622e7b06bc400dd47d0",
+      "bytes": 15512,
+      "sha256": "2a6d2c202bf36f2cc8ed391219b438d5999f4b9b52e9afe7f9862d2fc9c69de0",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -160,8 +160,8 @@
     },
     {
       "path": "docs/public/PHENOMENAL_STRUCTURALISM.md",
-      "bytes": 6407,
-      "sha256": "0a784498c00732cf67a58d2c949b34d6e7a6266ad30865e125ffb2af8d716d2b",
+      "bytes": 8535,
+      "sha256": "e9db9cf4dc7f2aad95c6e696ea4d4a92a6666fa1d9cba641fb39d8013fe07fde",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -187,8 +187,8 @@
     },
     {
       "path": "docs/public/SCOPE.md",
-      "bytes": 8456,
-      "sha256": "29380270ea33bb9c598a86b3090fe9ce2ddf7b1989470335a6a5911beb320b30",
+      "bytes": 9823,
+      "sha256": "b0900b5c79fd988de6e308d1b194fd763db944a2126c92fa7eb844cca1e09352",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -232,8 +232,8 @@
     },
     {
       "path": "normative/README.md",
-      "bytes": 2760,
-      "sha256": "2d86cac01554875ef941648a18d4a4ba46a0172ab1dfd7d7aaccf471398f5384",
+      "bytes": 3167,
+      "sha256": "fb9fa75a1282840dfbd6b6325d29bd38cb4a5091005e9a2c3db556bbb5907558",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -241,8 +241,8 @@
     },
     {
       "path": "research/ARTICULATION_CALCULUS.md",
-      "bytes": 9808,
-      "sha256": "b5ba2d4ab72d60d8a9b27077fbd9128eba82804c5a4e84a3c98ecb8b0362b3c8",
+      "bytes": 10038,
+      "sha256": "941251616abf737b60bac78f8aafbcdeceadbcf9068ae29ce22f404af75dc804",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -349,8 +349,8 @@
     },
     {
       "path": "research/CORRELATION_IDENTITY_THEORY.md",
-      "bytes": 7583,
-      "sha256": "165f2b14c0c602c21ac2a5e476f668c4c69a02b5da79f12e8dbce36b3c84b799",
+      "bytes": 7919,
+      "sha256": "a1ab3990f70cab9f787fea0dfd89f94a0106914cace0574bbd0130458b26c278",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -367,8 +367,8 @@
     },
     {
       "path": "research/ENDOGENOUS_MODELS.md",
-      "bytes": 11625,
-      "sha256": "2e7e808cf71cbaffdf8ab0fb93cec776ba2a8a34c3e4ab505f26cbbc8b03822c",
+      "bytes": 11929,
+      "sha256": "85646f3f9f628ce7be2eb05205e368b0c500289631a54120485f84a86eaac4c7",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -439,8 +439,8 @@
     },
     {
       "path": "research/INTERFACE_QUESTIONS.md",
-      "bytes": 8579,
-      "sha256": "96b991036cc663b2c1f83c2c806ec3315bc8b898fa372d5ae89e77f46f7223b0",
+      "bytes": 8900,
+      "sha256": "2e5a151898dab35d58d9fcb0a62a595be2f538afead4d14076021f1746cdee9f",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -529,8 +529,8 @@
     },
     {
       "path": "research/QUESTION_DEFINABILITY.md",
-      "bytes": 8505,
-      "sha256": "023fdc14bec6ec24a3f02d616d0a98595cad5e4fc318466633b21d8fc9ea710e",
+      "bytes": 8717,
+      "sha256": "75288eacac866abd63d1573ce5827cf2c51394d6dfadbf9a7161886cfb946d28",
       "license": "CC-BY-4.0",
       "copyright_holder": "Yaroslav Vyacheslavovich Smirnov",
       "copyright_year": 2026,
@@ -789,5 +789,12 @@
       "origin": "project-material-owner-approved"
     }
   ],
-  "source_commit_scope": "Public parent commit; per-file hashes identify this updated payload."
+  "source_commit_scope": "Public parent commit; per-file hashes identify this approved editorial payload.",
+  "editorial_candidate_status": "APPROVED_FOR_PUBLICATION",
+  "authorization_scope_note": "The owner explicitly approved this editorial corpus, the two final wording/navigation clarifications, and commit, push and publication after successful verification in the current task.",
+  "editorial_approval": {
+    "approved": true,
+    "recorded_at_utc": "2026-11-27T16:52:32.161330+00:00",
+    "scope": "Prepared editorial revision plus the two specified final clarifications; no other substantive changes; commit, push and publication authorized after successful checks."
+  }
 }

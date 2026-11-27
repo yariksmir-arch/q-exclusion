@@ -1,6 +1,6 @@
 # SS, modality and possible worlds
 
-**Status: philosophical interpretation conditional on Structural Sufficiency (SS), using existing mathematics.** SS says more than that possible worlds have not been proved. Under SS, modal determinacy cannot vary independently of substantive differences and relations. Possibility, necessity and counterfactual dependence therefore have no additional ontological remainder over that organization. This is a consequence of adopting SS, not a mathematical proof of SS or a refutation of every competing metaphysics.
+**Status: philosophical interpretation conditional on Structural Sufficiency (SS), using existing mathematics.** SS says more than that possible worlds have not been proved. Under SS, modal determinacy has no additional ontological ground beyond substantive differences and relations; inability to vary independently is a consequence, not the whole commitment. Possibility, necessity and counterfactual dependence therefore have no additional ontological remainder over that organization. This is a consequence of adopting SS, not a mathematical proof of SS or a refutation of every competing metaphysics.
 
 ## What gives modality positive content?
 
@@ -16,7 +16,7 @@ For a declared nonempty comparison class, a proposition is compatible when it ha
 
 ## Articulation and what it describes
 
-A written sentence, a simulation run or an instrument record is itself produced in relations. That occurrence does not transfer its represented properties to what it describes. A simulation of a locked door opening supplies an implemented simulation; evidence that the door can open is a separate matter. Conversely, an incomplete simulation is not evidence that the omitted hinge makes no difference.
+A written sentence, a simulation run or an instrument record is itself produced in relations. That occurrence alone does not transfer its represented properties to what it describes. The distinction must be grounded in the case: record production and use, execution rules, correction procedures or interventions can establish it. In some institutional or computational cases, producing an articulation can itself participate in the relation being studied. A simulation of a locked door opening supplies an implemented simulation; evidence that the door can open is a separate matter. Conversely, an incomplete simulation is not evidence that the omitted hinge makes no difference.
 
 Here an articulation's occurrence concerns the specified production of that record or calculation. It introduces no distinguished global world or primitive marker of actuality. A human reading is one form of articulation, not a condition of substantive difference. SS neither requires exhaustive articulation nor promises universal comparability, eventual discovery or an evaluator with access to every truth.
 

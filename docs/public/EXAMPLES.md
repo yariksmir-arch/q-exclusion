@@ -1,12 +1,12 @@
 # Worked examples
 
-## Consciousness: where does the extra fact enter?
+## Experience and the zombie illustration
 
-The zombie question asks whether a physical duplicate could lack experience. Explaining perception, control and report can still leave felt character unexplained. The first task is to identify the phenomenal contrasts at issue and what the account actually preserves: equal behaviour does not establish equal experience, and a physical description is not certified to exhaust substantive organization.
+Begin with differences given in experience, such as colour composition or unpleasantness. Their articulation, comparison and explanation can be investigated without first dividing relations into phenomenal and nonphenomenal kinds. The zombie question then illustrates a disputed demand: could a physical duplicate lack experience? An explanation of control and report can still omit the particular experienced differences at issue. Ask what that account actually preserves: equal behaviour does not establish equal experience, and a physical description is not certified to exhaust substantive organization.
 
-The additional demand arises when phenomenal variation is stipulated even with substantive organization held fixed. Under SS, that independent remainder is excluded; experience and its differences remain to be explained. Q alone asks whether an answer follows from the declared account. A failure can expose omitted relations without deciding between SS and its opponents.
+The additional demand arises when phenomenal variation is stipulated even with substantive organization held fixed. Under SS, additional ontological determinacy beyond substantive relations is excluded, even if necessarily connected to them; particular unexplained differences remain concrete research tasks. No common property of phenomenality must then be added after those differences have been explained. Q alone asks whether an answer follows from the declared account. A failure can expose omitted relations without deciding between SS and its opponents.
 
-What changes is the explanatory task: investigate the dependencies and access conditions of particular contrasts, rather than require an extra phenomenal fact after those have been accounted for. Mary’s new colour acquaintance remains a substantive gain to assess, including what knowledge it supplies. No full relational inventory is required before that work can begin. [Scope](SCOPE.md) retains the conceivability and knowledge challenges; [phenomenal structuralism](PHENOMENAL_STRUCTURALISM.md) examines concrete proposals and their limits. This is a conditional philosophical application, not an explanation of consciousness from a table.
+What changes is the explanatory task: investigate the dependencies and access conditions of particular contrasts, rather than require an extra phenomenal fact after those have been accounted for. Mary's first colour acquaintance can bring genuinely new distinctions, comparisons and knowledge. Knowing their description need not reproduce them, and their acquisition conditions alone establish no metaphysical priority of relata. No full relational inventory is required before that work can begin. [Scope](SCOPE.md) retains the conceivability and knowledge challenges; [phenomenal structuralism](PHENOMENAL_STRUCTURALISM.md) examines concrete proposals and their limits. This is a conditional philosophical application, not an explanation of consciousness from a table.
 
 ## One question followed through: what makes a capacity substantive?
 
@@ -46,7 +46,7 @@ A record on {a,b,c} returns 0,0,1. It suffices for that present readout. An upda
 
 ### Independent constraints can correct an answer
 
-Two independently formed restrictions retain {1,2} and {1,3}. A usable common-target comparison restricts their nonempty joint class to {1}. Neither restriction alone determines it. If the comparison is absent, simply intersecting labels assumes missing content; if one report copied the other, independence of formation has not been shown. These are ordinary constraint and provenance conditions, not arbitrary choice by an interface.
+Two independently formed restrictions retain {1,2} and {1,3}. A usable common-target comparison restricts their nonempty joint class to {1}. Neither restriction alone determines it. If the comparison is absent, simply intersecting labels assumes missing content; if one report copied the other, independence of formation has not been shown. These are ordinary constraint and provenance conditions, not arbitrary choice by an interface. They illustrate how objectivity can be supported by concrete grounds for correction rather than by agreement alone; a copied restriction supplies no second independent ground.
 
 Local agreement need not extend globally. Binary constraints a=b, b=c and c≠a each have nonempty pair tables and matching one-port projections, yet their conjunction has no assignment. The result is inconsistency of that finite task, not selection of a global history. See [joint constraints](../../research/INDEPENDENT_CONSTRAINT_CONVERGENCE.md) and [coordination](../../research/COORDINATION.md).
 
